@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Imtiaz Ahmed",
+        "image": "https://cse.iith.ac.in/assets/images/staff/ImtiazA.jpg",
+        "position": "Technical Superintendent",
+        "email": " imtiaz.ahmed@cse.iith.ac.in"
+    },
+    {
+        "name": "Jessy Bondla",
+        "image": "https://cse.iith.ac.in/assets/images/staff/JessyB.jpg",
+        "position": "Technical Superintendent",
+        "email": " jessy.bondla@cse.iith.ac.in"
+    },
+    {
+        "name": "K. Raguraman",
+        "image": "https://cse.iith.ac.in/assets/images/staff/Ragu.jpg",
+        "position": "Technical Superintendent",
+        "email": " raguram.k@cse.iith.ac.in"
+    },
+    {
+        "name": "N. Syamala Rao",
+        "image": "https://cse.iith.ac.in/assets/images/staff/nsyam.jpg",
+        "position": "Technical Superintendent",
+        "email": " syam.n@cse.iith.ac.in"
+    },
+    {
+        "name": "T. Vijayachakravarthi",
+        "image": "https://cse.iith.ac.in/assets/images/staff/Vijayachakravarthi.JPG",
+        "position": "Technical Superintendent",
+        "email": " vijay.chakry@cse.iith.ac.in"
+    },
+    {
+        "name": "Abani Kumar Das",
+        "image": "https://cse.iith.ac.in/assets/images/staff/abanikdas.jpg",
+        "position": "Executive Assistant",
+        "email": " abanikdas@iith.ac.in"
+    },
+    {
+        "name": "Abhishek Deshpande",
+        "image": "https://cse.iith.ac.in/assets/images/staff/abhishek.jpg",
+        "position": "Projet Staff",
+        "email": " abhishek@iith.ac.in"
+    },
+    {
+        "name": "S Dileep Reddy",
+        "image": "https://cse.iith.ac.in/assets/images/profiles/defaultProfile.jpg",
+        "position": "Project Staff",
+        "email": " sdileep@iith.ac.in"
+    }
+]
