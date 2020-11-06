@@ -1,5 +1,6 @@
-{
-    "Subrahmanyam Kalyanasundaram": {
+[
+    {
+        "name": "Subrahmanyam Kalyanasundaram",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Subrahmanyam_Kalyanasundaram.jpg",
         "website": "http://www.iith.ac.in/~subruk/",
         "position": "Head & Associate Professor",
@@ -7,7 +8,8 @@
         "email": " subruk@cse.iith.ac.in",
         "domain": "Complexity Theory, Probabilistic Techniques, Algebra, Randomized Algorithms"
     },
-    "Antony Franklin": {
+    {
+        "name": "Antony Franklin",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Antony_Franklin.jpg",
         "website": "http://www.iith.ac.in/~antony/",
         "position": "Associate Professor",
@@ -15,7 +17,8 @@
         "email": " antony.franklin@cse.iith.ac.in",
         "domain": "Wireless Networks, Mobile Networks,5G Network and Systems, Low Latency transport protocol"
     },
-    "Bheemarjuna Reddy Tamma": {
+    {
+        "name": "Bheemarjuna Reddy Tamma",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Bheemarjuna_Reddy.jpg",
         "website": "http://www.iith.ac.in/~tbr/",
         "position": "Professor",
@@ -23,7 +26,8 @@
         "email": " tbr@cse.iith.ac.in",
         "domain": "Converged Cloud Radio Access Networks, 5G, SDN/NFV, IoT/M2M and Network Security"
     },
-    "C. Krishna Mohan": {
+    {
+        "name": "C. Krishna Mohan",
         "image": "https://cse.iith.ac.in/assets/images/profiles/C_Krishna_Mohan.jpg",
         "website": "http://www.iith.ac.in/~ckm/",
         "position": "Professor",
@@ -31,7 +35,8 @@
         "email": " ckm@cse.iith.ac.in",
         "domain": "Video Content Analysis, Machine Learning, Sparsity Based Methods, Deep Learning"
     },
-    "Fahad Panolan": {
+    {
+        "name": "Fahad Panolan",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Fahad_Panolan.jpg",
         "website": "https://iith.ac.in/~fahad/",
         "position": "Assistant Professor",
@@ -39,7 +44,8 @@
         "email": " fahad@cse.iith.ac.in",
         "domain": "Parameterized Algorithms and Complexity, Approximation Algorithms, and Graph Theory"
     },
-    "J. Saketha Nath": {
+    {
+        "name": "J. Saketha Nath",
         "image": "https://cse.iith.ac.in/assets/images/profiles/J_Saketha_Nath.jpg",
         "website": "http://www.iith.ac.in/~saketha/",
         "position": "Associate Professor",
@@ -47,7 +53,8 @@
         "email": " saketha@cse.iith.ac.in",
         "domain": "Machine Learning"
     },
-    "Karteek Sreenivasaiah": {
+    {
+        "name": "Karteek Sreenivasaiah",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Karteek.jpg",
         "website": "http://www.iith.ac.in/~karteek/",
         "position": "Assistant Professor",
@@ -55,7 +62,8 @@
         "email": " karteek@cse.iith.ac.in",
         "domain": "Theoretical Computer Science, Computational Complexity"
     },
-    "Kotaro Kataoka": {
+    {
+        "name": "Kotaro Kataoka",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Kotaro.jpg",
         "website": "https://www.iith.ac.in/~kotaro/",
         "position": "Associate Professor",
@@ -63,7 +71,8 @@
         "email": " kotaro@cse.iith.ac.in",
         "domain": "Internet over Broadcast Media, Ipv6 Multicast, Post-Disaster Networking"
     },
-    "M.V. Panduranga Rao": {
+    {
+        "name": "M.V. Panduranga Rao",
         "image": "https://cse.iith.ac.in/assets/images/profiles/MV_Panduranga_Rao.jpg",
         "website": "http://www.iith.ac.in/~mvp/",
         "position": "Associate Professor",
@@ -71,7 +80,8 @@
         "email": " mvp@cse.iith.ac.in",
         "domain": "Theoretical Computer Science"
     },
-    "Manish Singh": {
+    {
+        "name": "Manish Singh",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Manish_Singh.jpg",
         "website": "http://www.iith.ac.in/~msingh/",
         "position": "Assistant Professor",
@@ -79,7 +89,8 @@
         "email": " msingh@cse.iith.ac.in",
         "domain": "Databases, Data Mining, HCI, Information Retrieval, Information Visualization"
     },
-    "Manohar Kaul": {
+    {
+        "name": "Manohar Kaul",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Manohar_Kaul.jpg",
         "website": "http://www.iith.ac.in/~mkaul/",
         "position": "Assistant Professor",
@@ -87,7 +98,8 @@
         "email": " mkaul@cse.iith.ac.in",
         "domain": "Applied Algebraic Topology, Topological Analysis Data, Machine Learning, and Spatial Databases"
     },
-    "Maria Francis": {
+    {
+        "name": "Maria Francis",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Maria.jpg",
         "website": "https://sites.google.com/view/maria-francis/home",
         "position": "Assistant Professor",
@@ -95,7 +107,8 @@
         "email": " mariaf@cse.iith.ac.in",
         "domain": "Computational Algebra, Symbolic Computation, Lattice Cryptography"
     },
-    "Maunendra Sankar Desarkar": {
+    {
+        "name": "Maunendra Sankar Desarkar",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Maunendra_Sankar_Desarkar.jpg",
         "website": "http://www.iith.ac.in/~maunendra/",
         "position": "Assistant Professor",
@@ -103,7 +116,8 @@
         "email": " maunendra@cse.iith.ac.in",
         "domain": "Recommender Systems, Information Retrieval, Machine Learning, Data Mining"
     },
-    "N.R. Aravind": {
+    {
+        "name": "N.R. Aravind",
         "image": "https://cse.iith.ac.in/assets/images/profiles/N_R_Aravind.jpg",
         "website": "http://www.iith.ac.in/~aravind/",
         "position": "Associate Professor",
@@ -111,7 +125,8 @@
         "email": " aravind@cse.iith.ac.in",
         "domain": "Graph Theory, Combinatorics and Algorithms"
     },
-    "Praveen Tammana": {
+    {
+        "name": "Praveen Tammana",
         "image": "https://cse.iith.ac.in/assets/images/profiles/praveen_tammana.jpg",
         "website": "https://praveenabt.github.io/",
         "position": "Assistant Professor",
@@ -119,7 +134,8 @@
         "email": " praveent@cse.iith.ac.in",
         "domain": "Systems and Networking, Network Security, Software-Defined Networking, ML for Networks"
     },
-    "Rakesh Venkat": {
+    {
+        "name": "Rakesh Venkat",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Rakesh_Venkat.jpg",
         "website": "http://www.iith.ac.in/~rakeshvenkat",
         "position": "Assistant Professor",
@@ -127,7 +143,8 @@
         "email": " rakesh@cse.iith.ac.in",
         "domain": "Approximation Algorithms, Complexity Theory"
     },
-    "Ramakrishna Upadrasta": {
+    {
+        "name": "Ramakrishna Upadrasta",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Ramakrishna_Upadrasta.jpg",
         "website": "http://www.iith.ac.in/~ramakrishna/",
         "position": "Assistant Professor",
@@ -135,7 +152,8 @@
         "email": " ramakrishna@cse.iith.ac.in",
         "domain": "Programming Languages, Compiler Optimizations, Parallelizing Compilers, Program Optimizations, Static Analysis, Verification, Algorithms, Combinatorial Optimization, Theory of Algorithms"
     },
-    "Rogers Mathew": {
+    {
+        "name": "Rogers Mathew",
         "image": "https://cse.iith.ac.in/assets/images/profiles/rogers.jpg",
         "website": "https://iith.ac.in/~rogers/",
         "position": "Associate Professor",
@@ -143,7 +161,8 @@
         "email": " rogers@cse.iith.ac.in",
         "domain": "Combinatorics, Graph Theory, and Graph Algorithms."
     },
-    "Sathya Peri": {
+    {
+        "name": "Sathya Peri",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Sathya_Peri.jpg",
         "website": "http://www.iith.ac.in/~sathya_p/",
         "position": "Associate Professor",
@@ -151,7 +170,8 @@
         "email": " sathya_p@cse.iith.ac.in",
         "domain": "Parallel Programming, Software Transactional Memory, Distributed Systems, Theory of Databases, Algorithm Analysis, Networking Algorithms"
     },
-    "Saurabh Joshi": {
+    {
+        "name": "Saurabh Joshi",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Saurabh_Joshi.jpg",
         "website": "http://www.iith.ac.in/~sbjoshi",
         "position": "Assistant Professor",
@@ -159,7 +179,8 @@
         "email": " sbjoshi@cse.iith.ac.in",
         "domain": "Program Analysis, Formal Methods, Verification, Concurrency, Constraint Solving"
     },
-    "Sobhan Babu": {
+    {
+        "name": "Sobhan Babu",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Sobhan_Babu.jpg",
         "website": "https://www.iith.ac.in/~sobhan/",
         "position": "Associate Professor",
@@ -167,7 +188,8 @@
         "email": " sobhan@cse.iith.ac.in",
         "domain": "Big Data Analytics, Graph Theory and Applied Algorithms"
     },
-    "Srijith P.K": {
+    {
+        "name": "Srijith P.K",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Srijith_P_K.jpg",
         "website": "https://sites.google.com/site/pksrijith/home",
         "position": "Assistant Professor",
@@ -175,7 +197,8 @@
         "email": " srijith@cse.iith.ac.in",
         "domain": "Bayesian Data Analysis, Probabilistic Machine Learning, Bayesian Non-Parametrics, Survival Analysis and Text Analytics"
     },
-    "Vineeth N. Balasubramanian": {
+    {
+        "name": "Vineeth N. Balasubramanian",
         "image": "https://cse.iith.ac.in/assets/images/profiles/Vineeth_N_Balasubramanian.jpg",
         "website": "http://www.iith.ac.in/~vineethnb/index.html",
         "position": "Associate Professor",
@@ -183,4 +206,4 @@
         "email": " vineethnb@cse.iith.ac.in",
         "domain": "Machine Learning"
     }
-}
+]
