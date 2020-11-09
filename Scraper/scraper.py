@@ -21,7 +21,7 @@ def scrape_faculty():
 			'position': element.find('h4').text,
 			'office': element.find_all('h5')[0].text,
 			'email': element.find_all('h5')[1].text,
-			'domain': element.find_all('h5')[2].text
+			'domain': element.find_all('h5')[2].text.split(', ')
 		})
 
 	with open("faculty.json", "w") as outfile:  
@@ -46,5 +46,38 @@ def scrape_staff():
 	with open("staff.json", "w") as outfile:  
 	    json.dump(Staff, outfile, indent=4)
 
-if __name__ == '__main__':
+def scrape_students(department):
+	html_page_students = requests.get('https://cse.iith.ac.in/people/students.html')
+	soup = BeautifulSoup(html_page_students.text, 'html.parser')
+
+	elements = soup.find_all(attrs = {'class' : 'row'})
+	if department == 'btech':
+		elements = elements[0]
+	elif department == 'mtech':
+		elements = elements[1]
+	elif department == 'phd':
+		elements = elements[2]	
+	elif department == 'alumni':
+		elements = elements[3]
+
+	links = ['https://cse.iith.ac.in'+item.get('onclick').split("'")[1] for item in elements.find(attrs = {'class' : 'panel'}).find_all('button')]
+
+	Students = []
+
+	for link in links:
+		html_page = requests.get(link)
+		soup = BeautifulSoup(html_page.text, 'html.parser')
+
+		inner_elements = soup.find_all(attrs = {'class' : 'col-sm-6'})
+		for inner_element in inner_elements:
+			Students.append({
+				'name': inner_element.find('h3').text,
+				'RollNumber': inner_element.find('h5').text,
+				'Year': link.split('/')[-1].split('.')[0]
+				})
+
+	with open("students_"+department+".json", "w") as outfile:  
+	    json.dump(Students, outfile, indent=4)
 	
+
+if __name__ == '__main__':

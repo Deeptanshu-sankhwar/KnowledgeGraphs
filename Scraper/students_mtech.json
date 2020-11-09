@@ -1,0 +1,822 @@
+[
+    {
+        "name": "BUYAKAR TULJA VAMSHI KIRAN",
+        "RollNumber": "CS16MTECH11020",
+        "Year": "ra-2016"
+    },
+    {
+        "name": "GAURAV GARG",
+        "RollNumber": "CS16MTECH11022",
+        "Year": "ra-2016"
+    },
+    {
+        "name": "Mohammad Saalim Jamal",
+        "RollNumber": "CS16MTECH11024",
+        "Year": "ra-2016"
+    },
+    {
+        "name": "Kuchibhotla Suryamukhi",
+        "RollNumber": "CS17MTECH01002",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Rohan B Banerjee",
+        "RollNumber": "CS17MTECH11008",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Nandan Kumar Jha",
+        "RollNumber": "CS17MTECH11010",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Desai Sai vikas",
+        "RollNumber": "CS17MTECH11011",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Magdum Suhel Sajjan",
+        "RollNumber": "CS17MTECH11012",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Madhura A",
+        "RollNumber": "CS17MTECH11013",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Chirag Juyal",
+        "RollNumber": "CS17MTECH11014",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Mohit Kumar Singh",
+        "RollNumber": "CS17MTECH11015",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Gaddam Sree Datta Sanjay Bharath",
+        "RollNumber": "CS17MTECH11016",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Ayush Jain",
+        "RollNumber": "CS17MTECH11017",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Venkata Keerthy S",
+        "RollNumber": "CS17MTECH11018",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Poonam Rajput",
+        "RollNumber": "CS17MTECH11019",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Mehul Sharma",
+        "RollNumber": "CS17MTECH11020",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Tulika Agrawal",
+        "RollNumber": "CS17MTECH11022",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Uddipta Bhattacharjee",
+        "RollNumber": "CS17MTECH11026",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Eti Chaudhary",
+        "RollNumber": "CS17MTECH11029",
+        "Year": "ra-2017"
+    },
+    {
+        "name": "Rajat Saini",
+        "RollNumber": "CS17MTECH11002",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Uttaran Sinha",
+        "RollNumber": "CS17MTECH11003",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Dewalakar Swapnil Ashok",
+        "RollNumber": "CS17MTECH11004",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Swmdwn Basumatary",
+        "RollNumber": "CS17MTECH11005",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Devulapally Uday Santhosh",
+        "RollNumber": "CS17MTECH11006",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Ayushi Vishwakarma",
+        "RollNumber": "CS17MTECH11007",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Bedanta Kumar Das",
+        "RollNumber": "CS17MTECH11009",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Nikhil Anand",
+        "RollNumber": "CS17MTECH11021",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Nehal Mamgain",
+        "RollNumber": "CS17MTECH11023",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Digvijay Pandey",
+        "RollNumber": "CS17MTECH11024",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Tarun Patidar",
+        "RollNumber": "CS17MTECH11025",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Dikshant Bisht",
+        "RollNumber": "CS17MTECH11027",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Tondulkar Rohan Ravindra",
+        "RollNumber": "CS17MTECH11028",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Swaroop Kumar Panda",
+        "RollNumber": "CS17MTECH11030",
+        "Year": "ta-2017"
+    },
+    {
+        "name": "Sachin Rathor",
+        "RollNumber": "CS18MTECH01002",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Shounak Kundu",
+        "RollNumber": "CS18MTECH01004",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Piyushi Manupriya",
+        "RollNumber": "CS18MTECH11019",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Nishit Shah",
+        "RollNumber": "CS18MTECH11020",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Komma Manogna",
+        "RollNumber": "CS18MTECH11021",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Jaya Sharma",
+        "RollNumber": "CS18MTECH11022",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Akash Banerjee",
+        "RollNumber": "CS18MTECH11023",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Anshika Chourasia",
+        "RollNumber": "CS18MTECH11024",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Priyambada Ambastha",
+        "RollNumber": "CS18MTECH11025",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "R Sharath",
+        "RollNumber": "CS18MTECH11026",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Vishal Shivapujimath M",
+        "RollNumber": "CS18MTECH11027",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Medabalimi Ravi Kumar",
+        "RollNumber": "CS18MTECH11028",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Bhavesh Toshniwal",
+        "RollNumber": "CS18MTECH11029",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Rohit Aggarwal",
+        "RollNumber": "CS18MTECH11030",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Yogesh Mandge",
+        "RollNumber": "CS18MTECH11031",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Ritesh Gupta",
+        "RollNumber": "CS18MTECH11033",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Jyoti Tiwari",
+        "RollNumber": "CS18MTECH11034",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Agrawal Prashansa Mahendra",
+        "RollNumber": "CS18MTECH11037",
+        "Year": "ra-2018"
+    },
+    {
+        "name": "Darivemula Mamatha Rani",
+        "RollNumber": "CS18MTECH11001",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Abhinav Singh",
+        "RollNumber": "CS18MTECH11002",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Sneha Ghadiya",
+        "RollNumber": "CS18MTECH11003",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Suraj Kumar Singhal",
+        "RollNumber": "CS18MTECH11004",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "M S Nishanth",
+        "RollNumber": "CS18MTECH11005",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Ankit Kumar",
+        "RollNumber": "CS18MTECH11006",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Bhagat Ram",
+        "RollNumber": "CS18MTECH11007",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Aditya Kumar",
+        "RollNumber": "CS18MTECH11008",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Shah Rahul Rajeshkumar",
+        "RollNumber": "CS18MTECH11009",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Swati Jaiswal",
+        "RollNumber": "CS18MTECH11010",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Charkha Smruti Sunilkumar",
+        "RollNumber": "CS18MTECH11011",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Vikram Anand Singh",
+        "RollNumber": "CS18MTECH11012",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Manisha Kumari",
+        "RollNumber": "CS18MTECH11013",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Vishal Kumar",
+        "RollNumber": "CS18MTECH11014",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Piyush Bhardwaj",
+        "RollNumber": "CS18MTECH11015",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "V Sampath Kumar",
+        "RollNumber": "CS18MTECH11016",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Nikhil P Kumar",
+        "RollNumber": "CS18MTECH11017",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Rishik Ramena",
+        "RollNumber": "CS18MTECH11018",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Bhukya Kirankumar",
+        "RollNumber": "CS18MTECH11032",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Madhukar Misra",
+        "RollNumber": "CS18MTECH11035",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Kunal Jaun",
+        "RollNumber": "CS18MTECH11036",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Sarode Sunil Ramesh",
+        "RollNumber": "CS18MTECH11039",
+        "Year": "ta-2018"
+    },
+    {
+        "name": "Abhijith Girin N V",
+        "RollNumber": "CS19MTECH01001",
+        "Year": "ra-2019"
+    },
+    {
+        "name": "Faizul Haq",
+        "RollNumber": "CS19MTECH01002",
+        "Year": "ra-2019"
+    },
+    {
+        "name": "Gagandeep Goyal",
+        "RollNumber": "CS19MTECH01003",
+        "Year": "ra-2019"
+    },
+    {
+        "name": "K Naveen Kumar",
+        "RollNumber": "CS19MTECH01004",
+        "Year": "ra-2019"
+    },
+    {
+        "name": "Naga Venkata Rama Sai Aditya Chilukuri",
+        "RollNumber": "CS19MTECH01005",
+        "Year": "ra-2019"
+    },
+    {
+        "name": "Ujjwal Pawar",
+        "RollNumber": "CS19MTECH01006",
+        "Year": "ra-2019"
+    },
+    {
+        "name": "Vishnu Prakash Bachu",
+        "RollNumber": "CS19MTECH01007",
+        "Year": "ra-2019"
+    },
+    {
+        "name": "ATUL GUPTA",
+        "RollNumber": "CS16MDS11004",
+        "Year": "mds-2016"
+    },
+    {
+        "name": "CHANDRASEKHAR ANANTHAPATNAYAKUNI",
+        "RollNumber": "CS16MDS11006",
+        "Year": "mds-2016"
+    },
+    {
+        "name": "JYOTI MISHRA",
+        "RollNumber": "CS16MDS11011",
+        "Year": "mds-2016"
+    },
+    {
+        "name": "MINAL N DANI",
+        "RollNumber": "CS16MDS11013",
+        "Year": "mds-2016"
+    },
+    {
+        "name": "SRINIVASA CHAITANYA KUMAR REDDY GOPIREDDY",
+        "RollNumber": "CS16MDS11028",
+        "Year": "mds-2016"
+    },
+    {
+        "name": "VIJIN K P",
+        "RollNumber": "CS16MDS11030",
+        "Year": "mds-2016"
+    },
+    {
+        "name": "SMRUTIRANJAN SAHU",
+        "RollNumber": "CS16MDS11031",
+        "Year": "mds-2016"
+    },
+    {
+        "name": "Kannan Chandrasekaran",
+        "RollNumber": "CS18MDS11001",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Vijaya Venkata Sri Rama Bhaskar Kamireddy",
+        "RollNumber": "CS18MDS11002",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Kambhampati Sai Krishna",
+        "RollNumber": "CS18MDS11003",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Sankarnarayana Venkata Subrahmanya Kandalam",
+        "RollNumber": "CS18MDS11004",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Pratik Kumar Chhapolika",
+        "RollNumber": "CS18MDS11005",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Sandeep Chopra",
+        "RollNumber": "CS18MDS11006",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Sourabh Anand",
+        "RollNumber": "CS18MDS11007",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Gourang Gaurav",
+        "RollNumber": "CS18MDS11008",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Shaswata Jash",
+        "RollNumber": "CS18MDS11009",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Kashish Gori",
+        "RollNumber": "CS18MDS11010",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Aparna Apa Gaonkar",
+        "RollNumber": "CS18MDS11011",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Naresh Babu Durgam",
+        "RollNumber": "CS18MDS11012",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Shri Vinayaka Pandi Nataraja Karayalar",
+        "RollNumber": "CS18MDS11013",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Harshitha Rao Gandhe",
+        "RollNumber": "CS18MDS11014",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Divyansh Kumar Singh",
+        "RollNumber": "CS18MDS11015",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Dileep Reddy Gurala",
+        "RollNumber": "CS18MDS11016",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Arpan Banerjee",
+        "RollNumber": "CS18MDS11017",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Abhishek Bhatt",
+        "RollNumber": "CS18MDS11018",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Pavan Kumar Vallinatha Peddiraju",
+        "RollNumber": "CS18MDS11019",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Bharath Kumar Varma Sagi",
+        "RollNumber": "CS18MDS11020",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Pavan Kumar Reddy Banda",
+        "RollNumber": "CS18MDS11021",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Anand Kumar Rai",
+        "RollNumber": "CS18MDS11022",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Vishesh Kumar",
+        "RollNumber": "CS18MDS11023",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Deepak Kumar",
+        "RollNumber": "CS18MDS11024",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Chakravarti Baratam",
+        "RollNumber": "CS18MDS11025",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Maunika Tamire",
+        "RollNumber": "CS18MDS11026",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Deep Kumar",
+        "RollNumber": "CS18MDS11027",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Sumitra Sahu",
+        "RollNumber": "CS18MDS11028",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Venkatajalapathi Nithiyanandhan",
+        "RollNumber": "CS18MDS11029",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Praveen Kumar",
+        "RollNumber": "CS18MDS11030",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Raman Kishore",
+        "RollNumber": "CS18MDS11031",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Sujit Koley",
+        "RollNumber": "CS18MDS11032",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Abhilash M",
+        "RollNumber": "CS18MDS11033",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Govardhan Mattela",
+        "RollNumber": "CS18MDS11034",
+        "Year": "mds-2018"
+    },
+    {
+        "name": "Bharani Kumar Depuru",
+        "RollNumber": "CS15EMDS11003",
+        "Year": "emds-2015"
+    },
+    {
+        "name": "Karthik reddy malladi",
+        "RollNumber": "CS15EMDS11005",
+        "Year": "emds-2015"
+    },
+    {
+        "name": "Prasannakumar Mamidala VS",
+        "RollNumber": "CS15EMDS11007",
+        "Year": "emds-2015"
+    },
+    {
+        "name": "Rahul Agarwal",
+        "RollNumber": "CS15EMDS11010",
+        "Year": "emds-2015"
+    },
+    {
+        "name": "Ravikiran Nalla",
+        "RollNumber": "CS15EMDS11011",
+        "Year": "emds-2015"
+    },
+    {
+        "name": "Swarun Kameswara Nanduri",
+        "RollNumber": "CS15EMDS11023",
+        "Year": "emds-2015"
+    },
+    {
+        "name": "IFTIKAR AHMED",
+        "RollNumber": "CS16EMDS11010",
+        "Year": "emds-2016"
+    },
+    {
+        "name": "SHYAM SUNDAR S",
+        "RollNumber": "CS16EMDS11026",
+        "Year": "emds-2016"
+    },
+    {
+        "name": "Aditya Kumar",
+        "RollNumber": "CS17EMDS11001",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Adityachakradhar Reddy R",
+        "RollNumber": "CS17EMDS11002",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Amani Namboori",
+        "RollNumber": "CS17EMDS11003",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Aneesh Kunnathu Joseph",
+        "RollNumber": "CS17EMDS11004",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Arun Mohan",
+        "RollNumber": "CS17EMDS11005",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Ashutosh Bajpai",
+        "RollNumber": "CS17EMDS11006",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Darshit Doshi",
+        "RollNumber": "CS17EMDS11007",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Devesh Raj",
+        "RollNumber": "CS17EMDS11008",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Geeta Singh",
+        "RollNumber": "CS17EMDS11009",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Harish Mashetty",
+        "RollNumber": "CS17EMDS11010",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Janarthanan TB",
+        "RollNumber": "CS17EMDS11011",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Karthik Chandramouli",
+        "RollNumber": "CS17EMDS11012",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Nageswara Rao Gurram",
+        "RollNumber": "CS17EMDS11013",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Nimesh Jha",
+        "RollNumber": "CS17EMDS11014",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Nitin Agarwal",
+        "RollNumber": "CS17EMDS11015",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Paritosh Gupta",
+        "RollNumber": "CS17EMDS11016",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Pavan CS",
+        "RollNumber": "CS17EMDS11017",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Rohan Mishra",
+        "RollNumber": "CS17EMDS11018",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Rohit Dubey",
+        "RollNumber": "CS17EMDS11019",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Rohit Sindhu",
+        "RollNumber": "CS17EMDS11020",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "S R Archana",
+        "RollNumber": "CS17EMDS11021",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Sai Eswar Garapati",
+        "RollNumber": "CS17EMDS11022",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Sai Kiran Wupadrasta",
+        "RollNumber": "CS17EMDS11023",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Santanu Pattanayak",
+        "RollNumber": "CS17EMDS11024",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Santosh Kumar Sripuram",
+        "RollNumber": "CS17EMDS11025",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Satyabrata Rajguru Mohapatra",
+        "RollNumber": "CS17EMDS11026",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Sayan Pal",
+        "RollNumber": "CS17EMDS11027",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Srinivas Ksheerasagara",
+        "RollNumber": "CS17EMDS11028",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Srinivas Paturu",
+        "RollNumber": "CS17EMDS11029",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Sudhir Kumar Kedarnath Rai",
+        "RollNumber": "CS17EMDS11030",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Sujith Kumar K",
+        "RollNumber": "CS17EMDS11031",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Tomal Deb",
+        "RollNumber": "CS17EMDS11032",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Vamsi Krishna Penumadu",
+        "RollNumber": "CS17EMDS11033",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Vinay Gandikota Shashidhar",
+        "RollNumber": "CS17EMDS11034",
+        "Year": "emds-2017"
+    },
+    {
+        "name": "Prabhjot Singh",
+        "RollNumber": "CS17EMDS11035",
+        "Year": "emds-2017"
+    }
+]
