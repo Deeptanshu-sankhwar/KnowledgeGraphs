@@ -1,0 +1,1070 @@
+[
+    {
+        "Title": "A survey of techniques for dynamic branch prediction.Concurrency and Computation: Practice and Experience, 31.DOI",
+        "Authors": "Mittal, Sparsh",
+        "Link": "https://doi.org/10.1002/cpe.4666",
+        "Year": "2019"
+    },
+    {
+        "Title": "Dispersion Ratio based Decision Tree Model for Classification.Expert Syst. Appl., 116, 1\u00e2\u0080\u00939.DOI",
+        "Authors": "Roy, Smita and Mondal, Samrat and Ekbal, Asif and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1016/j.eswa.2018.08.039",
+        "Year": "2019"
+    },
+    {
+        "Title": "Leveraging Social Media Towards Understanding Anti-Vaccination Campaigns.In Proceedings of the NetHealth Workshop, NetHealth@COMSNETS 2019, Bengaluru, India, January 11, 2019.DOI",
+        "Authors": "Bhattacharjee, Uddipta and K., Srijith P. and Desarkar, Maunendra Sankar",
+        "Link": "",
+        "Year": "2019"
+    },
+    {
+        "Title": "Term Specific TF-IDF Boosting for Detection of Rumours in Social Networks.In Proceedings of the Sixth Social Networking Workshop, SN@COMSNETS 2019, Bengaluru, India, January 11, 2019.DOI",
+        "Authors": "Bhattacharjee, Uddipta and K., Srijith P. and Desarkar, Maunendra Sankar",
+        "Link": "",
+        "Year": "2019"
+    },
+    {
+        "Title": "A simple and practical concurrent non-blocking unbounded graph with linearizable reachability qeries.In Proceedings of the 20th International Conference on Distributed Computing and Networking, ICDCN 2019, Bangalore, India, January 04-07, 2019, 168\u00e2\u0080\u0093177.DOI",
+        "Authors": "Chatterjee, Bapi and Peri, Sathya and Sa, Muktikanta and Singhal, Nandini",
+        "Link": "https://doi.org/10.1145/3288599.3288617",
+        "Year": "2019"
+    },
+    {
+        "Title": "Entitling concurrency to smart contracts using optimistic transactional memory.In Proceedings of the 20th International Conference on Distributed Computing and Networking, ICDCN 2019, Bangalore, India, January 04-07, 2019, 508.DOI",
+        "Authors": "Anjana, Parwat Singh and Kumari, Sweta and Peri, Sathya and Rathor, Sachin and Somani, Archit",
+        "Link": "https://doi.org/10.1145/3288599.3299723",
+        "Year": "2019"
+    },
+    {
+        "Title": "On the Tractability of (k, i)-Coloring.In Algorithms and Discrete Applied Mathematics - 4th International Conference, CALDAM 2018, Guwahati, India, February 15-17, 2018, Proceedings, 188\u00e2\u0080\u0093198.DOI",
+        "Authors": "Joshi, Saurabh and Kalyanasundaram, Subrahmanyam and Kare, Anjeneya Swami and Bhyravarapu, Sriram",
+        "Link": "https://doi.org/10.1007/978-3-319-74180-2_16",
+        "Year": "2018"
+    },
+    {
+        "Title": "Approximation Strategies for Incomplete MaxSAT.In Principles and Practice of Constraint Programming - 24th International Conference, CP 2018, Lille, France, August 27-31, 2018, Proceedings, 219\u00e2\u0080\u0093228.DOI",
+        "Authors": "Joshi, Saurabh and Kumar, Prateek and Martins, Ruben and Rao, Sukrut",
+        "Link": "https://doi.org/10.1007/978-3-319-98334-9_15",
+        "Year": "2018"
+    },
+    {
+        "Title": "Graph Pattern Polynomials.In FSTTCS, 122, 18:1\u00e2\u0080\u009318:13.DOI",
+        "Authors": "Bl\u00c3\u00a4ser, Markus and Komarath, Balagopal and Sreenivasaiah, Karteek",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "On the complexity of hazard-free circuits.In STOC, 878\u00e2\u0080\u0093889.DOI",
+        "Authors": "Ikenmeyer, Christian and Komarath, Balagopal and Lenzen, Christoph and Lysikov, Vladimir and Mokhov, Andrey and Sreenivasaiah, Karteek",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "A survey of techniques for architecting SLC/MLC/TLC hybrid Flash memory-based SSDs.Concurrency and Computation: Practice and Experience, 30.DOI",
+        "Authors": "Alsalibi, Ahmed Izzat and Mittal, Sparsh and Al-Betar, Mohammed Azmi and Sumari, Putra Bin",
+        "Link": "https://doi.org/10.1002/cpe.4420",
+        "Year": "2018"
+    },
+    {
+        "Title": "A Survey of Techniques for Improving Security of Non-volatile Memories.J. Hardware and Systems Security, 2, 179\u00e2\u0080\u0093200.DOI",
+        "Authors": "Mittal, Sparsh and Alsalibi, Ahmed Izzat",
+        "Link": "https://doi.org/10.1007/s41635-018-0034-5",
+        "Year": "2018"
+    },
+    {
+        "Title": "A Survey of Techniques for Improving Security of GPUs.J. Hardware and Systems Security, 2, 266\u00e2\u0080\u0093285.DOI",
+        "Authors": "Mittal, Sparsh and Abhinaya, S. B. and Reddy, Manish and Ali, Irfan",
+        "Link": "https://doi.org/10.1007/s41635-018-0039-0",
+        "Year": "2018"
+    },
+    {
+        "Title": "A survey of techniques for improving error-resilience of DRAM.Journal of Systems Architecture - Embedded Systems Design, 91, 11\u00e2\u0080\u009340.DOI",
+        "Authors": "Mittal, Sparsh and Inukonda, Maruthi S.",
+        "Link": "https://doi.org/10.1016/j.sysarc.2018.09.004",
+        "Year": "2018"
+    },
+    {
+        "Title": "Aspect ontology based review exploration.Electronic Commerce Research and Applications, 30, 62\u00e2\u0080\u009371.DOI",
+        "Authors": "Konjengbam, Anand and Dewangan, Neelesh and Kumar, Nagendra and Singh, Manish",
+        "Link": "https://doi.org/10.1016/j.elerap.2018.05.006",
+        "Year": "2018"
+    },
+    {
+        "Title": "Sentiment dynamics in social media news channels.Online Social Networks and Media, 8, 42\u00e2\u0080\u009354.DOI",
+        "Authors": "Kumar, Nagendra and Nagalla, Rakshita and Marwah, Tanya and Singh, Manish",
+        "Link": "https://doi.org/10.1016/j.osnem.2018.10.004",
+        "Year": "2018"
+    },
+    {
+        "Title": "Toward maximizing the visibility of content in social media brand pages: a temporal analysis.Social Netw. Analys. Mining, 8, 11.DOI",
+        "Authors": "Kumar, Nagendra and Ande, Gopi and Kumar, Jessu Shirish and Singh, Manish",
+        "Link": "https://doi.org/10.1007/s13278-018-0488-z",
+        "Year": "2018"
+    },
+    {
+        "Title": "Unsupervised stance classification in online debates.In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, COMAD/CODS 2018, Goa, India, January 11-13, 2018, 30\u00e2\u0080\u009336.DOI",
+        "Authors": "Ghosh, Subrata and Konjengbam, Anand and Rajanala, Sailaja and Reddy, A. Bharath and Singh, Manish",
+        "Link": "https://doi.org/10.1145/3152494.3152497",
+        "Year": "2018"
+    },
+    {
+        "Title": "TRAFAN: Road traffic analysis using social media web pages.In 10th International Conference on Communication Systems & Networks, COMSNETS 2018, Bengaluru, India, January 3-7, 2018, 655\u00e2\u0080\u0093659.DOI",
+        "Authors": "Akilesh, B. and Kumar, Nagendra and Reddy, Bharath and Singh, Manish",
+        "Link": "https://doi.org/10.1109/COMSNETS.2018.8328290",
+        "Year": "2018"
+    },
+    {
+        "Title": "Debate Stance Classification Using Word Embeddings.In Big Data Analytics and Knowledge Discovery - 20th International Conference, DaWaK 2018, Regensburg, Germany, September 3-6, 2018, Proceedings, 382\u00e2\u0080\u0093395.DOI",
+        "Authors": "Konjengbam, Anand and Ghosh, Subrata and Kumar, Nagendra and Singh, Manish",
+        "Link": "https://doi.org/10.1007/978-3-319-98539-8_29",
+        "Year": "2018"
+    },
+    {
+        "Title": "Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, COMAD/CODS 2018, Goa, India, January 11-13, 2018..DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1145/3152494",
+        "Year": "2018"
+    },
+    {
+        "Title": "10th International Conference on Communication Systems & Networks, COMSNETS 2018, Bengaluru, India, January 3-7, 2018..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8325363",
+        "Year": "2018"
+    },
+    {
+        "Title": "Big Data Analytics and Knowledge Discovery - 20th International Conference, DaWaK 2018, Regensburg, Germany, September 3-6, 2018, Proceedings., 11031.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-319-98539-8",
+        "Year": "2018"
+    },
+    {
+        "Title": "A novel coexistence scheme for IEEE 802.11 for user fairness and efficient spectrum utilization in the presence of LTE-U.Computer Networks, 139, 1\u00e2\u0080\u009318.DOI",
+        "Authors": "Baswade, Anand M. and Atif, Touheed Anwar and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1016/j.comnet.2018.04.002",
+        "Year": "2018"
+    },
+    {
+        "Title": "LAW: A Novel Mechanism for Addressing Hidden Terminal Problem in LTE-U and Wi-Fi Networks.IEEE Communications Letters, 22, 1280\u00e2\u0080\u00931283.DOI",
+        "Authors": "Baswade, Anand M. and Atif, Touheed Anwar and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/LCOMM.2018.2827359",
+        "Year": "2018"
+    },
+    {
+        "Title": "INCARNATE: An interference aware spatial scheme for tightly coupled LTE-Wi-Fi networks.In 10th International Conference on Communication Systems & Networks, COMSNETS 2018, Bengaluru, India, January 3-7, 2018, 25\u00e2\u0080\u009332.DOI",
+        "Authors": "Patro, Sumanta and Pasca, Thomas Valerrian and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/COMSNETS.2018.8328176",
+        "Year": "2018"
+    },
+    {
+        "Title": "LTE-U and Wi-Fi hidden terminal problem: How serious is it for deployment consideration?.In 10th International Conference on Communication Systems & Networks, COMSNETS 2018, Bengaluru, India, January 3-7, 2018, 33\u00e2\u0080\u009340.DOI",
+        "Authors": "Baswade, Anand M. and Atif, Touheed Anwar and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/COMSNETS.2018.8328177",
+        "Year": "2018"
+    },
+    {
+        "Title": "KORA: A Framework for Dynamic Consolidation & Relocation of Control Units in Virtualized 5G RAN.In 2018 IEEE International Conference on Communications, ICC 2018, Kansas City, MO, USA, May 20-24, 2018, 1\u00e2\u0080\u00937.DOI",
+        "Authors": "Mishra, Debashisha and Gupta, Himank and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/ICC.2018.8422335",
+        "Year": "2018"
+    },
+    {
+        "Title": "On Placement of LAA/LTE-U Base Stations in Heterogeneous Wireless Networks.In Proceedings of the 19th International Conference on Distributed Computing and Networking, ICDCN 2018, Varanasi, India, January 4-7, 2018, 37:1\u00e2\u0080\u009337:10.DOI",
+        "Authors": "Baswade, Anand M. and Shashi, Kiran M. R. and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1145/3154273.3154297",
+        "Year": "2018"
+    },
+    {
+        "Title": "A Framework for Integrating MPTCP over LWA: A Testbed Evaluation.In Proceedings of the 12th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization, WiNTECH@MobiCom 2018, New Delhi, India, November 2, 2018, 2\u00e2\u0080\u009310.DOI",
+        "Authors": "Santhappan, Thomas Valerrian Pasca and Sen, Nabhasmita and Reddy, Venkatarami and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1145/3267204.3267215",
+        "Year": "2018"
+    },
+    {
+        "Title": "Poster: Scalable Network Slicing Architecture for 5G.In Proceedings of the 24th Annual International Conference on Mobile Computing and Networking, MobiCom 2018, New Delhi, India, October 29 - November 02, 2018, 684\u00e2\u0080\u0093686.DOI",
+        "Authors": "Buyakar, Tulja Vamshi Kiran and PC, Amogh and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1145/3241539.3267762",
+        "Year": "2018"
+    },
+    {
+        "Title": "Poster: Wi-Fi User\u00e2\u0080\u0099s Video QoE in the Presence of Duty Cycled LTE-U.In Proceedings of the 24th Annual International Conference on Mobile Computing and Networking, MobiCom 2018, New Delhi, India, October 29 - November 02, 2018, 720\u00e2\u0080\u0093722.DOI",
+        "Authors": "Singh, Mohit Kumar and Baswade, Anand M. and Franklin, A. Antony and Tamma, Bheemarjuna Reddy",
+        "Link": "https://doi.org/10.1145/3241539.3267780",
+        "Year": "2018"
+    },
+    {
+        "Title": "An enhanced EAB algorithm to reduce RACH congestion due to IoT traffic in LTE-A networks.In 4th IEEE World Forum on Internet of Things, WF-IoT 2018, Singapore, February 5-8, 2018, 395\u00e2\u0080\u0093400.DOI",
+        "Authors": "Giluka, Mukesh Kumar and Priyadarshi, Tathagat and Kumar, Shakti and Franklin, A. Antony and Tamma, Bheemarjuna Reddy",
+        "Link": "https://doi.org/10.1109/WF-IoT.2018.8355156",
+        "Year": "2018"
+    },
+    {
+        "Title": "Modelling and Analysis of Wi-Fi and LAA Coexistence with Priority Classes.In 14th International Conference on Wireless and Mobile Computing, Networking and Communications, WiMob 2018, Limassol, Cyprus, October 15-17, 2018, 1\u00e2\u0080\u00938.DOI",
+        "Authors": "Baswade, Anand M. and Beltramelli, Luca and Franklin, A. Antony and Gidlund, Mikael and Tamma, Bheemarjuna Reddy and Guntupalli, Lakshmikanth",
+        "Link": "https://doi.org/10.1109/WiMOB.2018.8589150",
+        "Year": "2018"
+    },
+    {
+        "Title": "A Neural Network-Based Ensemble Approach for Spam Detection in Twitter.IEEE Trans. Comput. Social Systems, 5, 973\u00e2\u0080\u0093984.DOI",
+        "Authors": "Madisetty, Sreekanth and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1109/TCSS.2018.2878852",
+        "Year": "2018"
+    },
+    {
+        "Title": "Classification of Short-Texts Generated During Disasters: A Deep Neural Network Based Approach.In IEEE/ACM 2018 International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2018, Barcelona, Spain, August 28-31, 2018, 790\u00e2\u0080\u0093793.DOI",
+        "Authors": "Kundu, Shamik and Srijith, P. K. and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1109/ASONAM.2018.8508695",
+        "Year": "2018"
+    },
+    {
+        "Title": "A framework for real-time spam detection in Twitter.In 10th International Conference on Communication Systems & Networks, COMSNETS 2018, Bengaluru, India, January 3-7, 2018, 380\u00e2\u0080\u0093383.DOI",
+        "Authors": "Gupta, Himank and Jamal, Mohd. Saalim and Madisetty, Sreekanth and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1109/COMSNETS.2018.8328222",
+        "Year": "2018"
+    },
+    {
+        "Title": "Get me the best: predicting best answerers in community question answering sites.In Proceedings of the 12th ACM Conference on Recommender Systems, RecSys 2018, Vancouver, BC, Canada, October 2-7, 2018, 251\u00e2\u0080\u0093259.DOI",
+        "Authors": "Tondulkar, Rohan and Dubey, Manisha and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1145/3240323.3240346",
+        "Year": "2018"
+    },
+    {
+        "Title": "Personalized Tourist Package Recommendation using Graph Based Approach.In Adjunct Publication of the 26th Conference on User Modeling, Adaptation and Personalization, UMAP 2018, Singapore, July 08-11, 2018, 257\u00e2\u0080\u0093262.DOI",
+        "Authors": "Hti, Rashmi and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1145/3213586.3225233",
+        "Year": "2018"
+    },
+    {
+        "Title": "Class Specific TF-IDF Boosting for Short-text Classification: Application to Short-texts Generated During Disasters.In Companion of the The Web Conference 2018 on The Web Conference 2018, WWW 2018, Lyon , France, April 23-27, 2018, 1629\u00e2\u0080\u00931637.DOI",
+        "Authors": "Ghosh, Samujjwal and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1145/3184558.3191621",
+        "Year": "2018"
+    },
+    {
+        "Title": "PReFacTO: Preference Relations Based Factor Model with Topic Awareness and Offset.In Proceedings of the 2018 SIGIR Workshop On eCommerce (eCom) co-located with the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018), Ann Arbor, USA, July 12, 2018..DOI",
+        "Authors": "Choudhary, Priyanka and Desarkar, Maunendra Sankar",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "The Interplay of Form and Meaning in Complex Medical Terms: Evidence from a Clinical Corpus.In Proceedings of the 1st Workshop on Trolling, Aggression and Cyberbullying, TRAC\u00e2\u0080\u00931@COLING 2018, Santa Fe, New Mexico, USA, August 25, 2018, 120\u00e2\u0080\u0093127.DOI",
+        "Authors": "Madisetty, Sreekanth and Desarkar, Maunendra Sankar",
+        "Link": "http://aclweb.org/anthology/W18-44",
+        "Year": "2018"
+    },
+    {
+        "Title": "Dynamic Network Function (DNF): Service Chain Placement and Bottleneck Removal for Edge-Fog-Cloud Interplay.In AINTEC, 46\u00e2\u0080\u009353.DOI",
+        "Authors": "Hirwe, Anish and Aich, Mrinal and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "INSTRUCT: A Clustering Based Identification of Valid Communications in IoT Networks.In IoTSMS, 228\u00e2\u0080\u0093233.DOI",
+        "Authors": "Jamal, Mohd Saalim and S, Venkata Keerthy and Ochiai, Hideya and Esaki, Hiroshi and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "Poster: Detection of Topology Poisoning by Silent Relay Attacker in SDN.In MobiCom, 792\u00e2\u0080\u0093794.DOI",
+        "Authors": "Shrivastava, Pragati and Agarwal, Annanay and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "LEGION: Lightweight & Distributed Mobility Management for MSDN based Large-scale WiFi.In NetSoft, 232\u00e2\u0080\u0093236.DOI",
+        "Authors": "Shrivastava, Pragati and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "Effective resource provisioning for QoS-aware virtual networks in SDN.In NOMS, 1\u00e2\u0080\u00939.DOI",
+        "Authors": "Podili, Prashanth and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "Trust list: Internet-wide and distributed IoT traffic management using blockchain and SDN.In WF-IoT, 296\u00e2\u0080\u0093301.DOI",
+        "Authors": "Kataoka, Kotaro and Gangwar, Saurabh and Podili, Prashanth",
+        "Link": "",
+        "Year": "2018"
+    },
+    {
+        "Title": "Efficient Means of Achieving Composability Using Object Based Semantics in Transactional Memory Systems.In Networked Systems - 6th International Conference, NETYS 2018, Essaouira, Morocco, May 9-11, 2018, Revised Selected Papers, 157\u00e2\u0080\u0093174.DOI",
+        "Authors": "Peri, Sathya and Singh, Ajay and Somani, Archit",
+        "Link": "https://doi.org/10.1007/978-3-030-05529-5_11",
+        "Year": "2018"
+    },
+    {
+        "Title": "An Innovative Approach to Achieve Compositionality Efficiently Using Multi-version Object Based Transactional Systems.In Stabilization, Safety, and Security of Distributed Systems - 20th International Symposium, SSS 2018, Tokyo, Japan, November 4-7, 2018, Proceedings, 284\u00e2\u0080\u0093300.DOI",
+        "Authors": "Juyal, Chirag and Kulkarni, Sandeep S. and Kumari, Sweta and Peri, Sathya and Somani, Archit",
+        "Link": "https://doi.org/10.1007/978-3-030-03232-6_19",
+        "Year": "2018"
+    },
+    {
+        "Title": "Improving multiclass classification by deep networks using DAGSVM and Triplet Loss.Pattern Recognition Letters, 112, 184\u00e2\u0080\u0093190.DOI",
+        "Authors": "Agarwal, Nakul and Balasubramanian, Vineeth N. and Jawahar, C. V.",
+        "Link": "https://doi.org/10.1016/j.patrec.2018.06.034",
+        "Year": "2018"
+    },
+    {
+        "Title": "Neuro-IoU: Learning a Surrogate Loss for Semantic Segmentation.In British Machine Vision Conference 2018, BMVC 2018, Northumbria University, Newcastle, UK, September 3-6, 2018, 278.DOI",
+        "Authors": "Nagendar, Gattigorla and Singh, Digvijay and Balasubramanian, Vineeth N. and Jawahar, C. V.",
+        "Link": "http://bmvc2018.org/contents/papers/1055.pdf",
+        "Year": "2018"
+    },
+    {
+        "Title": "Are saddles good enough for neural networks.In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, COMAD/CODS 2018, Goa, India, January 11-13, 2018, 37\u00e2\u0080\u009345.DOI",
+        "Authors": "Sankar, Adepu Ravi and Balasubramanian, Vineeth N.",
+        "Link": "https://doi.org/10.1145/3152494.3152498",
+        "Year": "2018"
+    },
+    {
+        "Title": "STwalk: learning trajectory representations in temporal graphs.In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, COMAD/CODS 2018, Goa, India, January 11-13, 2018, 210\u00e2\u0080\u0093219.DOI",
+        "Authors": "Pandhre, Supriya and Mittal, Himangi and Gupta, Manish and Balasubramanian, Vineeth N.",
+        "Link": "https://doi.org/10.1145/3152494.3152512",
+        "Year": "2018"
+    },
+    {
+        "Title": "ADINE: an adaptive momentum method for stochastic gradient descent.In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, COMAD/CODS 2018, Goa, India, January 11-13, 2018, 249\u00e2\u0080\u0093256.DOI",
+        "Authors": "Srinivasan, Vishwak and Sankar, Adepu Ravi and Balasubramanian, Vineeth N.",
+        "Link": "https://doi.org/10.1145/3152494.3152515",
+        "Year": "2018"
+    },
+    {
+        "Title": "Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data.In 2018 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, USA, June 18-22, 2018, 1556\u00e2\u0080\u00931565.DOI",
+        "Authors": "Pal, Arghya and Balasubramanian, Vineeth N.",
+        "Link": "http://openaccess.thecvf.com/content_cvpr_2018/html/Pal_Adversarial_Data_Programming_CVPR_2018_paper.html",
+        "Year": "2018"
+    },
+    {
+        "Title": "RefocusGAN: Scene Refocusing Using a Single Image.In Computer Vision - ECCV 2018 - 15th European Conference, Munich, Germany, September 8-14, 2018, Proceedings, Part IV, 519\u00e2\u0080\u0093535.DOI",
+        "Authors": "Sakurikar, Parikshit and Mehta, Ishit and Balasubramanian, Vineeth N. and Narayanan, P. J.",
+        "Link": "https://doi.org/10.1007/978-3-030-01225-0_31",
+        "Year": "2018"
+    },
+    {
+        "Title": "Grad-CAM++: Generalized Gradient-Based Visual Explanations for Deep Convolutional Networks.In 2018 IEEE Winter Conference on Applications of Computer Vision, WACV 2018, Lake Tahoe, NV, USA, March 12-15, 2018, 839\u00e2\u0080\u0093847.DOI",
+        "Authors": "Chattopadhyay, Aditya and Sarkar, Anirban and Howlader, Prantik and Balasubramanian, Vineeth N.",
+        "Link": "https://doi.org/10.1109/WACV.2018.00097",
+        "Year": "2018"
+    },
+    {
+        "Title": "British Machine Vision Conference 2018, BMVC 2018, Northumbria University, Newcastle, UK, September 3-6, 2018..DOI",
+        "Authors": "",
+        "Link": "http://bmvc2018.org/programmedetail.html",
+        "Year": "2018"
+    },
+    {
+        "Title": "Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, COMAD/CODS 2018, Goa, India, January 11-13, 2018..DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1145/3152494",
+        "Year": "2018"
+    },
+    {
+        "Title": "2018 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, USA, June 18-22, 2018..DOI",
+        "Authors": "",
+        "Link": "http://openaccess.thecvf.com/CVPR2018.py",
+        "Year": "2018"
+    },
+    {
+        "Title": "Computer Vision - ECCV 2018 - 15th European Conference, Munich, Germany, September 8-14, 2018, Proceedings, Part IV., 11208.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-030-01225-0",
+        "Year": "2018"
+    },
+    {
+        "Title": "2018 IEEE Winter Conference on Applications of Computer Vision, WACV 2018, Lake Tahoe, NV, USA, March 12-15, 2018..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8345804",
+        "Year": "2018"
+    },
+    {
+        "Title": "Exact Computation of the Number of Accepting Paths of an NTM.In Algorithms and Discrete Applied Mathematics - 4th International Conference, CALDAM 2018, Guwahati, India, February 15-17, 2018, Proceedings, 105\u00e2\u0080\u0093117.DOI",
+        "Authors": "Kalyanasundaram, Subrahmanyam and Regan, Kenneth W.",
+        "Link": "https://doi.org/10.1007/978-3-319-74180-2_9",
+        "Year": "2018"
+    },
+    {
+        "Title": "On the Tractability of (k, i)-Coloring.In Algorithms and Discrete Applied Mathematics - 4th International Conference, CALDAM 2018, Guwahati, India, February 15-17, 2018, Proceedings, 188\u00e2\u0080\u0093198.DOI",
+        "Authors": "Joshi, Saurabh and Kalyanasundaram, Subrahmanyam and Kare, Anjeneya Swami and Bhyravarapu, Sriram",
+        "Link": "https://doi.org/10.1007/978-3-319-74180-2_16",
+        "Year": "2018"
+    },
+    {
+        "Title": "Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs.ACM Trans. Program. Lang. Syst., 39, 15:1\u00e2\u0080\u009315:27.DOI",
+        "Authors": "Forejt, Vojtech and Joshi, Saurabh and Kroening, Daniel and Narayanaswamy, Ganesh and Sharma, Subodh",
+        "Link": "https://doi.org/10.1145/3095075",
+        "Year": "2017"
+    },
+    {
+        "Title": "SwapX: An NVM-Based Hierarchical Swapping Framework.IEEE Access, 5, 16383\u00e2\u0080\u009316392.DOI",
+        "Authors": "Zhu, Guoliang and Lu, Kai and Wang, Xiaoping and Zhang, Yiming and Zhang, Pengfei and Mittal, Sparsh",
+        "Link": "https://doi.org/10.1109/ACCESS.2017.2737634",
+        "Year": "2017"
+    },
+    {
+        "Title": "Addressing Read-Disturbance Issue in STT-RAM by Data Compression and Selective Duplication.Computer Architecture Letters, 16, 94\u00e2\u0080\u009398.DOI",
+        "Authors": "Mittal, Sparsh and Vetter, Jeffrey S. and Jiang, Lei",
+        "Link": "https://doi.org/10.1109/LCA.2016.2645207",
+        "Year": "2017"
+    },
+    {
+        "Title": "Decongest: Accelerating Super-Dense PCM Under Write Disturbance by Hot Page Remapping.Computer Architecture Letters, 16, 107\u00e2\u0080\u0093110.DOI",
+        "Authors": "Wang, Rujia and Mittal, Sparsh and Zhang, Youtao and Yang, Jun",
+        "Link": "https://doi.org/10.1109/LCA.2017.2675883",
+        "Year": "2017"
+    },
+    {
+        "Title": "A Survey of Soft-Error Mitigation Techniques for Non-Volatile Memories.Computers, 6, 8.DOI",
+        "Authors": "Mittal, Sparsh",
+        "Link": "https://doi.org/10.3390/computers6010008",
+        "Year": "2017"
+    },
+    {
+        "Title": "A survey of techniques for architecting TLBs.Concurrency and Computation: Practice and Experience, 29.DOI",
+        "Authors": "Mittal, Sparsh",
+        "Link": "https://doi.org/10.1002/cpe.4061",
+        "Year": "2017"
+    },
+    {
+        "Title": "A survey of value prediction techniques for leveraging value locality.Concurrency and Computation: Practice and Experience, 29.DOI",
+        "Authors": "Mittal, Sparsh",
+        "Link": "https://doi.org/10.1002/cpe.4250",
+        "Year": "2017"
+    },
+    {
+        "Title": "A Survey of Techniques for Cache Partitioning in Multicore Processors.ACM Comput. Surv., 50, 27:1\u00e2\u0080\u009327:39.DOI",
+        "Authors": "Mittal, Sparsh",
+        "Link": "https://doi.org/10.1145/3062394",
+        "Year": "2017"
+    },
+    {
+        "Title": "Building a Fast and Power Efficient Inductive Charge Pump System for 3D Stacked Phase Change Memories.In Proceedings of the on Great Lakes Symposium on VLSI 2017, Banff, AB, Canada, May 10-12, 2017, 275\u00e2\u0080\u0093280.DOI",
+        "Authors": "Jiang, Lei and Mittal, Sparsh and Wen, Wujie",
+        "Link": "https://doi.org/10.1145/3060403.3060412",
+        "Year": "2017"
+    },
+    {
+        "Title": "Architecting SOT-RAM Based GPU Register File.In 2017 IEEE Computer Society Annual Symposium on VLSI, ISVLSI 2017, Bochum, Germany, July 3-5, 2017, 38\u00e2\u0080\u009344.DOI",
+        "Authors": "Mittal, Sparsh and Bishnoi, Rajendra and Oboril, Fabian and Wang, Haonan and Tahoori, Mehdi Baradaran and Jog, Adwait and Vetter, Jeffrey S.",
+        "Link": "https://doi.org/10.1109/ISVLSI.2017.17",
+        "Year": "2017"
+    },
+    {
+        "Title": "Design and Analysis of Soft-Error Resilience Mechanisms for GPURegister File.In 30th International Conference on VLSI Design and 16th International Conference on Embedded Systems, VLSID 2017, Hyderabad, India, January 7-11, 2017, 409\u00e2\u0080\u0093414.DOI",
+        "Authors": "Mittal, Sparsh and Wang, Haonan and Jog, Adwait and Vetter, Jeffrey S.",
+        "Link": "https://doi.org/10.1109/VLSID.2017.14",
+        "Year": "2017"
+    },
+    {
+        "Title": "Generating Topics of Interests for Research Communities.In Advanced Data Mining and Applications - 13th International Conference, ADMA 2017, Singapore, November 5-6, 2017, Proceedings, 488\u00e2\u0080\u0093501.DOI",
+        "Authors": "Kumar, Nagendra and Utkoor, Rahul and Appareddy, Bharath K. R. and Singh, Manish",
+        "Link": "https://doi.org/10.1007/978-3-319-69179-4_34",
+        "Year": "2017"
+    },
+    {
+        "Title": "Efficient Twitter sentiment classification using subjective distant supervision.In 9th International Conference on Communication Systems and Networks, COMSNETS 2017, Bengaluru, India, January 4-8, 2017, 548\u00e2\u0080\u0093553.DOI",
+        "Authors": "Sahni, Tapan and Chandak, Chinmay and Chedeti, Naveen Reddy and Singh, Manish",
+        "Link": "https://doi.org/10.1109/COMSNETS.2017.7945451",
+        "Year": "2017"
+    },
+    {
+        "Title": "Using Social Media for Word-of-Mouth Marketing.In Big Data Analytics and Knowledge Discovery - 19th International Conference, DaWaK 2017, Lyon, France, August 28-31, 2017, Proceedings, 391\u00e2\u0080\u0093406.DOI",
+        "Authors": "Kumar, Nagendra and Chandarana, Yash and Konjengbam, Anand and Singh, Manish",
+        "Link": "https://doi.org/10.1007/978-3-319-64283-3_29",
+        "Year": "2017"
+    },
+    {
+        "Title": "Arousal Prediction of News Articles in Social Media.In Mining Intelligence and Knowledge Exploration - 5th International Conference, MIKE 2017, Hyderabad, India, December 13-15, 2017, Proceedings, 308\u00e2\u0080\u0093319.DOI",
+        "Authors": "Kumar, Nagendra and Yadandla, Anusha and Suryamukhi, K. and Ranabothu, Neha and Boya, Sravani and Singh, Manish",
+        "Link": "https://doi.org/10.1007/978-3-319-71928-3_30",
+        "Year": "2017"
+    },
+    {
+        "Title": "Advanced Data Mining and Applications - 13th International Conference, ADMA 2017, Singapore, November 5-6, 2017, Proceedings., 10604.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-319-69179-4",
+        "Year": "2017"
+    },
+    {
+        "Title": "9th International Conference on Communication Systems and Networks, COMSNETS 2017, Bengaluru, India, January 4-8, 2017..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7938017",
+        "Year": "2017"
+    },
+    {
+        "Title": "Big Data Analytics and Knowledge Discovery - 19th International Conference, DaWaK 2017, Lyon, France, August 28-31, 2017, Proceedings., 10440.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-319-64283-3",
+        "Year": "2017"
+    },
+    {
+        "Title": "2017 IEEE International Conference on Data Science and Advanced Analytics, DSAA 2017, Tokyo, Japan, October 19-21, 2017..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8255765",
+        "Year": "2017"
+    },
+    {
+        "Title": "Mining Intelligence and Knowledge Exploration - 5th International Conference, MIKE 2017, Hyderabad, India, December 13-15, 2017, Proceedings., 10682.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-319-71928-3",
+        "Year": "2017"
+    },
+    {
+        "Title": "On Polynomial Kernelization of H-free Edge Deletion.Algorithmica, 79, 654\u00e2\u0080\u0093666.DOI",
+        "Authors": "Aravind, N. R. and Sandeep, R. B. and Sivadasan, Naveen",
+        "Link": "https://doi.org/10.1007/s00453-016-0215-y",
+        "Year": "2017"
+    },
+    {
+        "Title": "Dichotomy Results on the Hardness of H-free Edge Modification Problems.SIAM J. Discrete Math., 31, 542\u00e2\u0080\u0093561.DOI",
+        "Authors": "Aravind, N. R. and Sandeep, R. B. and Sivadasan, Naveen",
+        "Link": "https://doi.org/10.1137/16M1055797",
+        "Year": "2017"
+    },
+    {
+        "Title": "On Structural Parameterizations of the Matching Cut Problem.In Combinatorial Optimization and Applications - 11th International Conference, COCOA 2017, Shanghai, China, December 16-18, 2017, Proceedings, Part II, 475\u00e2\u0080\u0093482.DOI",
+        "Authors": "Aravind, N. R. and Kalyanasundaram, Subrahmanyam and Kare, Anjeneya Swami",
+        "Link": "https://doi.org/10.1007/978-3-319-71147-8_34",
+        "Year": "2017"
+    },
+    {
+        "Title": "Network Coordination Function for uplink traffic steering in tightly coupled LTE Wi-Fi networks.Computer Networks, 127, 296\u00e2\u0080\u0093316.DOI",
+        "Authors": "S., Thomas Valerrian Pasca and Patro, Sumanta and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1016/j.comnet.2017.08.024",
+        "Year": "2017"
+    },
+    {
+        "Title": "On placement and efficient resource allocation of LAA/LTE-U base stations in HetNet.In 2017 IEEE International Conference on Advanced Networks and Telecommunications Systems, ANTS 2017, Bhubaneswar, India, December 17-20, 2017, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Baswade, Anand M. and Shashi, Kiran M. R. and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/ANTS.2017.8384153",
+        "Year": "2017"
+    },
+    {
+        "Title": "Consolidated caching with cache splitting and trans-rating in mobile edge computing networks.In 2017 IEEE International Conference on Advanced Networks and Telecommunications Systems, ANTS 2017, Bhubaneswar, India, December 17-20, 2017, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Kumar, Shashwat and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/ANTS.2017.8384182",
+        "Year": "2017"
+    },
+    {
+        "Title": "A real-time performance evaluation of tightly coupled LTE Wi-Fi radio access networks.In 2017 IEEE International Conference on Advanced Networks and Telecommunications Systems, ANTS 2017, Bhubaneswar, India, December 17-20, 2017, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Pasca, Thomas Valerrian and Patro, Sumanta and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/ANTS.2017.8384097",
+        "Year": "2017"
+    },
+    {
+        "Title": "Optimal placement of colocated and non-colocated LWA nodes in dense deployments.In 2017 IEEE International Conference on Advanced Networks and Telecommunications Systems, ANTS 2017, Bhubaneswar, India, December 17-20, 2017, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Pasca, Thomas Valerrian and Srivats, R. Adharsh and Franklin, A. Antony and Tamma, Bheemarjuna Reddy",
+        "Link": "https://doi.org/10.1109/ANTS.2017.8384088",
+        "Year": "2017"
+    },
+    {
+        "Title": "Auto scaling of data plane VNFs in 5G networks.In 13th International Conference on Network and Service Management, CNSM 2017, Tokyo, Japan, November 26-30, 2017, 1\u00e2\u0080\u00934.DOI",
+        "Authors": "Buyakar, Tulja Vamshi Kiran and Rangisetti, Anil Kumar and Franklin, A. Antony and Tamma, Bheemarjuna Reddy",
+        "Link": "https://doi.org/10.23919/CNSM.2017.8256027",
+        "Year": "2017"
+    },
+    {
+        "Title": "Tightly coupled LTE Wi-Fi radio access networks: A demo of LWIP.In 9th International Conference on Communication Systems and Networks, COMSNETS 2017, Bengaluru, India, January 4-8, 2017, 419\u00e2\u0080\u0093420.DOI",
+        "Authors": "S, Thomas Valerrian Pasca and Patro, Sumanta and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/COMSNETS.2017.7945422",
+        "Year": "2017"
+    },
+    {
+        "Title": "FLEXCRAN: Cloud radio access network prototype using OpenAirInterface.In 9th International Conference on Communication Systems and Networks, COMSNETS 2017, Bengaluru, India, January 4-8, 2017, 421\u00e2\u0080\u0093422.DOI",
+        "Authors": "Kumar, S. Sandeep and Knopp, Raymond and Nikaein, Navid and Mishra, Debashisha and Tamma, Bheemarjuna Reddy and Franklin, A. Antony and Kuchi, Kiran and Gupta, Rohit",
+        "Link": "https://doi.org/10.1109/COMSNETS.2017.7945423",
+        "Year": "2017"
+    },
+    {
+        "Title": "VISIBLE: Virtual Congestion Control with Boost ACKs for Packet Level Steering in LWIP Networks.In 2017 IEEE Global Communications Conference, GLOBECOM 2017, Singapore, December 4-8, 2017, 1\u00e2\u0080\u00937.DOI",
+        "Authors": "Santhappan, Thomas Valerrian Pasca and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/GLOCOM.2017.8254981",
+        "Year": "2017"
+    },
+    {
+        "Title": "Enhancing performance of victim macro users via joint ABSF and dynamic power control in LTE HetNets.In Twenty-third National Conference on Communications, NCC 2017, Chennai, India, March 2-4, 2017, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Martolia, Deepa and Sathya, Vanlin and Rangisetti, Anil Kumar and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/NCC.2017.8077051",
+        "Year": "2017"
+    },
+    {
+        "Title": "Architectural challenges and solutions for collocated LWIP - A network layer perspective.In Twenty-third National Conference on Communications, NCC 2017, Chennai, India, March 2-4, 2017, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "S, Thomas Valerrian Pasca and Amogh, P. C. and Mishra, Debashisha and Dheeravath, Nagamani and Rangisetti, Anil Kumar and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/NCC.2017.8077053",
+        "Year": "2017"
+    },
+    {
+        "Title": "A cloud native solution for dynamic auto scaling of MME in LTE.In 28th IEEE Annual International Symposium on Personal, Indoor, and Mobile Radio Communications, PIMRC 2017, Montreal, QC, Canada, October 8-13, 2017, 1\u00e2\u0080\u00937.DOI",
+        "Authors": "Amogh, P. C. and Veeramachaneni, Goutham and Rangisetti, Anil Kumar and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/PIMRC.2017.8292270",
+        "Year": "2017"
+    },
+    {
+        "Title": "PRECISE: Power aware dynamic traffic steering in tightly coupled LTE Wi-Fi networks.In 28th IEEE Annual International Symposium on Personal, Indoor, and Mobile Radio Communications, PIMRC 2017, Montreal, QC, Canada, October 8-13, 2017, 1\u00e2\u0080\u00937.DOI",
+        "Authors": "S., Thomas Valerrian Pasca and Gupta, Himank and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/PIMRC.2017.8292226",
+        "Year": "2017"
+    },
+    {
+        "Title": "IITH at CLEF 2017: Finding Relevant Tweets for Cultural Events.In Working Notes of CLEF 2017 - Conference and Labs of the Evaluation Forum, Dublin, Ireland, September 11-14, 2017..DOI",
+        "Authors": "Madisetty, Sreekanth and Desarkar, Maunendra Sankar",
+        "Link": "http://ceur-ws.org/Vol-1866/paper_94.pdf",
+        "Year": "2017"
+    },
+    {
+        "Title": "Exploiting Meta Attributes for Identifying Event Related Hashtags.In Proceedings of the 9th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - (Volume 1), Funchal, Madeira, Portugal, November 1-3, 2017., 238\u00e2\u0080\u0093245.DOI",
+        "Authors": "Madisetty, Sreekanth and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.5220/0006502602380245",
+        "Year": "2017"
+    },
+    {
+        "Title": "An Ensemble Based Method for Predicting Emotion Intensity of Tweets.In Mining Intelligence and Knowledge Exploration - 5th International Conference, MIKE 2017, Hyderabad, India, December 13-15, 2017, Proceedings, 359\u00e2\u0080\u0093370.DOI",
+        "Authors": "Madisetty, Sreekanth and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1007/978-3-319-71928-3_34",
+        "Year": "2017"
+    },
+    {
+        "Title": "NSEmo at EmoInt-2017: An Ensemble to Predict Emotion Intensity in Tweets.In Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, WASSA@EMNLP 2017, Copenhagen, Denmark, September 8, 2017, 219\u00e2\u0080\u0093224.DOI",
+        "Authors": "Madisetty, Sreekanth and Desarkar, Maunendra Sankar",
+        "Link": "https://aclanthology.info/papers/W17-5230/w17-5230",
+        "Year": "2017"
+    },
+    {
+        "Title": "Using social media for classifying actionable insights in disaster scenario.International Journal of Advances in Engineering Sciences and Applied Mathematics, 9, 224\u00e2\u0080\u0093237.DOI",
+        "Authors": "Ghosh, Samujjwal and PK, Srijith and Desarkar, Maunendra Sankar",
+        "Link": "",
+        "Year": "2017"
+    },
+    {
+        "Title": "AMPS: Application aware multipath flow routing using machine learning in SDN.In NCC, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "S, Thomas Valerrian Pasca and Kodali, Siva Sairam Prasad and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2017"
+    },
+    {
+        "Title": "Non-interference and local correctness in transactional memory.Theor. Comput. Sci., 688, 103\u00e2\u0080\u0093116.DOI",
+        "Authors": "Kuznetsov, Petr and Peri, Sathya",
+        "Link": "https://doi.org/10.1016/j.tcs.2016.06.021",
+        "Year": "2017"
+    },
+    {
+        "Title": "Practical Multi-threaded Graph Coloring Algorithms for Shared Memory Architecture.In Proceedings of the 18th International Conference on Distributed Computing and Networking, Hyderabad, India, January 5-7, 2017, 44.DOI",
+        "Authors": "Singhal, Nandini and Peri, Sathya and Kalyanasundaram, Subrahmanyam",
+        "Link": "http://dl.acm.org/citation.cfm?id=3018281",
+        "Year": "2017"
+    },
+    {
+        "Title": "Sequence-to-Sequence Learning for Human Pose Correction in Videos.In 4th IAPR Asian Conference on Pattern Recognition, ACPR 2017, Nanjing, China, November 26-29, 2017, 298\u00e2\u0080\u0093303.DOI",
+        "Authors": "Swetha, Sirnam and Balasubramanian, Vineeth N. and Jawahar, C. V.",
+        "Link": "https://doi.org/10.1109/ACPR.2017.126",
+        "Year": "2017"
+    },
+    {
+        "Title": "Attentive Semantic Video Generation Using Captions.In IEEE International Conference on Computer Vision, ICCV 2017, Venice, Italy, October 22-29, 2017, 1435\u00e2\u0080\u00931443.DOI",
+        "Authors": "Marwah, Tanya and Mittal, Gaurav and Balasubramanian, Vineeth N.",
+        "Link": "https://doi.org/10.1109/ICCV.2017.159",
+        "Year": "2017"
+    },
+    {
+        "Title": "Have i reached the intersection: A deep learning-based approach for intersection detection from monocular cameras.In 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2017, Vancouver, BC, Canada, September 24-28, 2017, 4495\u00e2\u0080\u00934500.DOI",
+        "Authors": "Bhatt, Dhaivat and Sodhi, Danish and Pal, Arghya and Balasubramanian, Vineeth N. and Krishna, Madhava",
+        "Link": "https://doi.org/10.1109/IROS.2017.8206317",
+        "Year": "2017"
+    },
+    {
+        "Title": "Sync-DRAW: Automatic Video Generation using Deep Recurrent Attentive Architectures.In Proceedings of the 2017 ACM on Multimedia Conference, MM 2017, Mountain View, CA, USA, October 23-27, 2017, 1096\u00e2\u0080\u00931104.DOI",
+        "Authors": "Mittal, Gaurav and Marwah, Tanya and Balasubramanian, Vineeth N.",
+        "Link": "https://doi.org/10.1145/3123266.3123309",
+        "Year": "2017"
+    },
+    {
+        "Title": "4th IAPR Asian Conference on Pattern Recognition, ACPR 2017, Nanjing, China, November 26-29, 2017..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8575041",
+        "Year": "2017"
+    },
+    {
+        "Title": "IEEE International Conference on Computer Vision, ICCV 2017, Venice, Italy, October 22-29, 2017..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8234942",
+        "Year": "2017"
+    },
+    {
+        "Title": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2017, Vancouver, BC, Canada, September 24-28, 2017..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8119304",
+        "Year": "2017"
+    },
+    {
+        "Title": "Proceedings of the 2017 ACM on Multimedia Conference, MM 2017, Mountain View, CA, USA, October 23-27, 2017..DOI",
+        "Authors": "",
+        "Link": "http://dl.acm.org/citation.cfm?id=3123266",
+        "Year": "2017"
+    },
+    {
+        "Title": "On Structural Parameterizations of the Matching Cut Problem.In Combinatorial Optimization and Applications - 11th International Conference, COCOA 2017, Shanghai, China, December 16-18, 2017, Proceedings, Part II, 475\u00e2\u0080\u0093482.DOI",
+        "Authors": "Aravind, N. R. and Kalyanasundaram, Subrahmanyam and Kare, Anjeneya Swami",
+        "Link": "https://doi.org/10.1007/978-3-319-71147-8_34",
+        "Year": "2017"
+    },
+    {
+        "Title": "Practical Multi-threaded Graph Coloring Algorithms for Shared Memory Architecture.In Proceedings of the 18th International Conference on Distributed Computing and Networking, Hyderabad, India, January 5-7, 2017, 44.DOI",
+        "Authors": "Singhal, Nandini and Peri, Sathya and Kalyanasundaram, Subrahmanyam",
+        "Link": "http://dl.acm.org/citation.cfm?id=3018281",
+        "Year": "2017"
+    },
+    {
+        "Title": "Equivalence Checking of a Floating-Point Unit Against a High-Level C Model.In FM 2016: Formal Methods - 21st International Symposium, Limassol, Cyprus, November 9-11, 2016, Proceedings, 551\u00e2\u0080\u0093558.DOI",
+        "Authors": "Mukherjee, Rajdeep and Joshi, Saurabh and Griesmayer, Andreas and Kroening, Daniel and Melham, Tom",
+        "Link": "https://doi.org/10.1007/978-3-319-48989-6_33",
+        "Year": "2016"
+    },
+    {
+        "Title": "A Survey of Techniques for Architecting and Managing Asymmetric Multicore Processors.ACM Comput. Surv., 48, 45:1\u00e2\u0080\u009345:38.DOI",
+        "Authors": "Mittal, Sparsh",
+        "Link": "https://doi.org/10.1145/2856125",
+        "Year": "2016"
+    },
+    {
+        "Title": "DBExplorer: Exploratory Search in Databases.In Proceedings of the 19th International Conference on Extending Database Technology, EDBT 2016, Bordeaux, France, March 15-16, 2016, Bordeaux, France, March 15-16, 2016., 89\u00e2\u0080\u0093100.DOI",
+        "Authors": "Singh, Manish and Cafarella, Michael J. and Jagadish, H. V.",
+        "Link": "https://doi.org/10.5441/002/edbt.2016.11",
+        "Year": "2016"
+    },
+    {
+        "Title": "Proceedings of the 19th International Conference on Extending Database Technology, EDBT 2016, Bordeaux, France, March 15-16, 2016, Bordeaux, France, March 15-16, 2016..DOI",
+        "Authors": "",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "Linear Time Algorithms for Happy Vertex Coloring Problems for Trees.In Combinatorial Algorithms - 27th International Workshop, IWOCA 2016, Helsinki, Finland, August 17-19, 2016, Proceedings, 281\u00e2\u0080\u0093292.DOI",
+        "Authors": "Aravind, N. R. and Kalyanasundaram, Subrahmanyam and Kare, Anjeneya Swami",
+        "Link": "https://doi.org/10.1007/978-3-319-44543-4_22",
+        "Year": "2016"
+    },
+    {
+        "Title": "Parameterized Lower Bounds and Dichotomy Results for the NP-completeness of H-free Edge Modification Problems.In LATIN 2016: Theoretical Informatics - 12th Latin American Symposium, Ensenada, Mexico, April 11-15, 2016, Proceedings, 82\u00e2\u0080\u009395.DOI",
+        "Authors": "Aravind, N. R. and Sandeep, R. B. and Sivadasan, Naveen",
+        "Link": "https://doi.org/10.1007/978-3-662-49529-2_7",
+        "Year": "2016"
+    },
+    {
+        "Title": "Leveraging decoupling in enabling energy aware D2D communications.In 2016 IEEE International Conference on Advanced Networks and Telecommunications Systems, ANTS 2016, Bangalore, India, November 6-9, 2016, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Giluka, Mukesh Kumar and Khan, M. Sibgath Ali and Sathya, Vanlin and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/ANTS.2016.7947821",
+        "Year": "2016"
+    },
+    {
+        "Title": "Unlicensed Carrier Selection and User Offloading in Dense LTE-U Networks.In 2016 IEEE Globecom Workshops, Washington, DC, USA, December 4-8, 2016, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Baswade, Anand M. and Sathya, Vanlin and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/GLOCOMW.2016.7849071",
+        "Year": "2016"
+    },
+    {
+        "Title": "LWIR: LTE-WLAN Integration at RLC Layer with Virtual WLAN Scheduler for Efficient Aggregation.In 2016 IEEE Global Communications Conference, GLOBECOM 2016, Washington, DC, USA, December 4-8, 2016, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Sharma, Prashant and Brahmakshatriya, Ajay and S., Thomas Valerrian Pasca and Tamma, Bheemarjuna Reddy and Franklin, A. Antony",
+        "Link": "https://doi.org/10.1109/GLOCOM.2016.7841971",
+        "Year": "2016"
+    },
+    {
+        "Title": "Load-aware dynamic RRH assignment in Cloud Radio Access Networks.In IEEE Wireless Communications and Networking Conference, WCNC 2016, Doha, Qatar, April 3-6, 2016, 1\u00e2\u0080\u00936.DOI",
+        "Authors": "Mishra, Debashisha and Amogh, P. C. and Ramamurthy, Arun and Franklin, A. Antony and Tamma, Bheemarjuna Reddy",
+        "Link": "https://doi.org/10.1109/WCNC.2016.7564824",
+        "Year": "2016"
+    },
+    {
+        "Title": "Computer-Vision-Assisted Palm Rehabilitation With Supervised Learning.IEEE Trans. Biomed. Engineering, 63, 991\u00e2\u0080\u00931001.DOI",
+        "Authors": "Vamsikrishna, K. M. and Dogra, Debi Prosad and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1109/TBME.2015.2480881",
+        "Year": "2016"
+    },
+    {
+        "Title": "CRDT: Correlation Ratio Based Decision Tree Model for Healthcare Data Mining.In 16th IEEE International Conference on Bioinformatics and Bioengineering, BIBE 2016, Taichung, Taiwan, October 31 - November 2, 2016, 36\u00e2\u0080\u009343.DOI",
+        "Authors": "Roy, Smita and Mondal, Samrat and Ekbal, Asif and Desarkar, Maunendra Sankar",
+        "Link": "https://doi.org/10.1109/BIBE.2016.21",
+        "Year": "2016"
+    },
+    {
+        "Title": "SAFE: software-defined authentication framework.In AINTEC, 57\u00e2\u0080\u009363.DOI",
+        "Authors": "Kamath, Aditya V. and S, Sudarshan and Kataoka, Kotaro and Vijayvergiya, Nishant and Reddy, G. Bhargav and Phatale, Samrat",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "SFO: SubFlow Optimizer for MPTCP in SDN.In ITNAC, 173\u00e2\u0080\u0093178.DOI",
+        "Authors": "Joshi, Kalpana D. and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "FastSplit: Fast and Dynamic IP Mobility Management in SDN.In ITNAC, 166\u00e2\u0080\u0093172.DOI",
+        "Authors": "Shrivastava, Pragati and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "LightChain: A lightweight optimisation of VNF placement for service chaining in NFV.In NetSoft, 33\u00e2\u0080\u009337.DOI",
+        "Authors": "Hirwe, Anish and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "Orchestrating distributed mode of NFV.In NetSoft, 28\u00e2\u0080\u009332.DOI",
+        "Authors": "Kataoka, Kotaro and Dhabas, Uttam and Nirankari, Om Prakash and Grover, Naman",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "Segmented proactive flow rule injection for service chaining using SDN.In NetSoft, 38\u00e2\u0080\u009342.DOI",
+        "Authors": "Pawar, Prakash B. and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "Optimizing Service Chain ID generation for flow rule compression.In NFV-SDN, 226\u00e2\u0080\u0093232.DOI",
+        "Authors": "Nirankari, Om Prakash and Pawar, Prakash and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2016"
+    },
+    {
+        "Title": "Opacity proof for CaPR+ algorithm.In Proceedings of the 17th International Conference on Distributed Computing and Networking, Singapore, January 4-7, 2016, 16:1\u00e2\u0080\u009316:4.DOI",
+        "Authors": "Anand, Anshu S. and Shyamasundar, R. K. and Peri, Sathya",
+        "Link": "https://doi.org/10.1145/2833312.2833445",
+        "Year": "2016"
+    },
+    {
+        "Title": "A crowdsourced approach to student engagement recognition in e-learning environments.In 2016 IEEE Winter Conference on Applications of Computer Vision, WACV 2016, Lake Placid, NY, USA, March 7-10, 2016, 1\u00e2\u0080\u00939.DOI",
+        "Authors": "Kamath, Aditya and Biswas, Aradhya and Balasubramanian, Vineeth",
+        "Link": "https://doi.org/10.1109/WACV.2016.7477618",
+        "Year": "2016"
+    },
+    {
+        "Title": "Fine-tuning human pose estimations in videos.In 2016 IEEE Winter Conference on Applications of Computer Vision, WACV 2016, Lake Placid, NY, USA, March 7-10, 2016, 1\u00e2\u0080\u00939.DOI",
+        "Authors": "Singh, Digvijay and Balasubramanian, Vineeth and Jawahar, C. V.",
+        "Link": "https://doi.org/10.1109/WACV.2016.7477680",
+        "Year": "2016"
+    },
+    {
+        "Title": "2016 IEEE Winter Conference on Applications of Computer Vision, WACV 2016, Lake Placid, NY, USA, March 7-10, 2016..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7469250",
+        "Year": "2016"
+    },
+    {
+        "Title": "Linear Time Algorithms for Happy Vertex Coloring Problems for Trees.In Combinatorial Algorithms - 27th International Workshop, IWOCA 2016, Helsinki, Finland, August 17-19, 2016, Proceedings, 281\u00e2\u0080\u0093292.DOI",
+        "Authors": "Aravind, N. R. and Kalyanasundaram, Subrahmanyam and Kare, Anjeneya Swami",
+        "Link": "https://doi.org/10.1007/978-3-319-44543-4_22",
+        "Year": "2016"
+    },
+    {
+        "Title": "Information Exploration in E-Commerce Databases.In Big Data Analytics - 4th International Conference, BDA 2015, Hyderabad, India, December 15-18, 2015, Proceedings, 41\u00e2\u0080\u009356.DOI",
+        "Authors": "Singh, Manish",
+        "Link": "https://doi.org/10.1007/978-3-319-27057-9_3",
+        "Year": "2015"
+    },
+    {
+        "Title": "Big Data Analytics - 4th International Conference, BDA 2015, Hyderabad, India, December 15-18, 2015, Proceedings., 9498.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-319-27057-9",
+        "Year": "2015"
+    },
+    {
+        "Title": "The chromatic discrepancy of graphs.Discrete Applied Mathematics, 184, 40\u00e2\u0080\u009349.DOI",
+        "Authors": "Aravind, N. R. and Kalyanasundaram, Subrahmanyam and Sandeep, R. B. and Sivadasan, Naveen",
+        "Link": "https://doi.org/10.1016/j.dam.2014.10.038",
+        "Year": "2015"
+    },
+    {
+        "Title": "Parameterized Lower Bound and NP-Completeness of Some H-Free Edge Deletion Problems.In Combinatorial Optimization and Applications - 9th International Conference, COCOA 2015, Houston, TX, USA, December 18-20, 2015, Proceedings, 424\u00e2\u0080\u0093438.DOI",
+        "Authors": "Aravind, N. R. and Sandeep, R. B. and Sivadasan, Naveen",
+        "Link": "https://doi.org/10.1007/978-3-319-26626-8_31",
+        "Year": "2015"
+    },
+    {
+        "Title": "On the Expressive Power of Read-Once Determinants.In Fundamentals of Computation Theory - 20th International Symposium, FCT 2015, Gda\u00c5\u0084sk, Poland, August 17-19, 2015, Proceedings, 95\u00e2\u0080\u0093105.DOI",
+        "Authors": "Aravind, N. R. and Joglekar, Pushkar S.",
+        "Link": "https://doi.org/10.1007/978-3-319-22177-9_8",
+        "Year": "2015"
+    },
+    {
+        "Title": "Auto-Configuration of SDN Switches in SDN/Non-SDN Hybrid Network.In AINTEC, 48\u00e2\u0080\u009353.DOI",
+        "Authors": "Katiyar, Rohit and Pawar, Prakash and Gupta, Abhay and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2015"
+    },
+    {
+        "Title": "liteFlow: Lightweight and distributed flow monitoring platform for SDN.In NetSoft, 1\u00e2\u0080\u00939.DOI",
+        "Authors": "Grover, Naman and Agarwal, Nitin and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2015"
+    },
+    {
+        "Title": "Performance evaluation of wireless ad-hoc network for post-disaster recovery using Linux Live USB nodes.In WiMob, 125\u00e2\u0080\u0093131.DOI",
+        "Authors": "Garg, Vaibhav and Kataoka, Kotaro and Talluri, Siva Subramanya Rohith",
+        "Link": "",
+        "Year": "2015"
+    },
+    {
+        "Title": "S-Gossip: Security Enhanced Gossip Protocol for Unstructured P2P Networks.In Distributed Computing and Internet Technology - 11th International Conference, ICDCIT 2015, Bhubaneswar, India, February 5-8, 2015. Proceedings, 288\u00e2\u0080\u0093298.DOI",
+        "Authors": "Tetarave, Sumit Kumar and Tripathy, Somanath and Peri, Sathya",
+        "Link": "https://doi.org/10.1007/978-3-319-14977-6_28",
+        "Year": "2015"
+    },
+    {
+        "Title": "Conformal predictions for information fusion - A comparative study of p-value combination methods.Ann. Math. Artif. Intell., 74, 45\u00e2\u0080\u009365.DOI",
+        "Authors": "Balasubramanian, Vineeth Nallure and Chakraborty, Shayok and Panchanathan, Sethuraman",
+        "Link": "https://doi.org/10.1007/s10472-013-9392-4",
+        "Year": "2015"
+    },
+    {
+        "Title": "Active Batch Selection via Convex Relaxations with Guaranteed Solution Bounds.IEEE Trans. Pattern Anal. Mach. Intell., 37, 1945\u00e2\u0080\u00931958.DOI",
+        "Authors": "Chakraborty, Shayok and Balasubramanian, Vineeth Nallure and Sun, Qian and Panchanathan, Sethuraman and Ye, Jieping",
+        "Link": "https://doi.org/10.1109/TPAMI.2015.2389848",
+        "Year": "2015"
+    },
+    {
+        "Title": "Adaptive Batch Mode Active Learning.IEEE Trans. Neural Netw. Learning Syst., 26, 1747\u00e2\u0080\u00931760.DOI",
+        "Authors": "Chakraborty, Shayok and Balasubramanian, Vineeth Nallure and Panchanathan, Sethuraman",
+        "Link": "https://doi.org/10.1109/TNNLS.2014.2356470",
+        "Year": "2015"
+    },
+    {
+        "Title": "Similarity-based Contrastive Divergence Methods for Energy-based Deep Learning Models.In Proceedings of The 7th Asian Conference on Machine Learning, ACML 2015, Hong Kong, November 20-22, 2015., 391\u00e2\u0080\u0093406.DOI",
+        "Authors": "Sankar, Adepu Ravi and Balasubramanian, Vineeth N.",
+        "Link": "http://jmlr.org/proceedings/papers/v45/Sankar15.html",
+        "Year": "2015"
+    },
+    {
+        "Title": "BatchRank: A Novel Batch Mode Active Learning Framework for Hierarchical Classification.In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Sydney, NSW, Australia, August 10-13, 2015, 99\u00e2\u0080\u0093108.DOI",
+        "Authors": "Chakraborty, Shayok and Balasubramanian, Vineeth Nallure and Sankar, Adepu Ravi and Panchanathan, Sethuraman and Ye, Jieping",
+        "Link": "https://doi.org/10.1145/2783258.2783298",
+        "Year": "2015"
+    },
+    {
+        "Title": "Model Selection Using Efficiency of Conformal Predictors.In Statistical Learning and Data Sciences - Third International Symposium, SLDS 2015, Egham, UK, April 20-23, 2015, Proceedings, 291\u00e2\u0080\u0093300.DOI",
+        "Authors": "Jaiswal, Ritvik and Balasubramanian, Vineeth N.",
+        "Link": "https://doi.org/10.1007/978-3-319-17091-6_24",
+        "Year": "2015"
+    },
+    {
+        "Title": "Proceedings of The 7th Asian Conference on Machine Learning, ACML 2015, Hong Kong, November 20-22, 2015., 45.DOI",
+        "Authors": "",
+        "Link": "http://jmlr.org/proceedings/papers/v45/",
+        "Year": "2015"
+    },
+    {
+        "Title": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Sydney, NSW, Australia, August 10-13, 2015..DOI",
+        "Authors": "",
+        "Link": "http://dl.acm.org/citation.cfm?id=2783258",
+        "Year": "2015"
+    },
+    {
+        "Title": "Statistical Learning and Data Sciences - Third International Symposium, SLDS 2015, Egham, UK, April 20-23, 2015, Proceedings., 9047.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-319-17091-6",
+        "Year": "2015"
+    },
+    {
+        "Title": "An Optimal Algorithm for Finding Frieze-Kannan Regular Partitions.Combinatorics, Probability & Computing, 24, 407\u00e2\u0080\u0093437.DOI",
+        "Authors": "Jr., Domingos Dellamonica and Kalyanasundaram, Subrahmanyam and Martin, Daniel M. and R\u00c3\u00b6dl, Vojtech and Shapira, Asaf",
+        "Link": "https://doi.org/10.1017/S0963548314000200",
+        "Year": "2015"
+    },
+    {
+        "Title": "The chromatic discrepancy of graphs.Discrete Applied Mathematics, 184, 40\u00e2\u0080\u009349.DOI",
+        "Authors": "Aravind, N. R. and Kalyanasundaram, Subrahmanyam and Sandeep, R. B. and Sivadasan, Naveen",
+        "Link": "https://doi.org/10.1016/j.dam.2014.10.038",
+        "Year": "2015"
+    },
+    {
+        "Title": "On Polynomial Kernelization of H -free Edge Deletion.In Parameterized and Exact Computation - 9th International Symposium, IPEC 2014, Wroclaw, Poland, September 10-12, 2014. Revised Selected Papers, 28\u00e2\u0080\u009338.DOI",
+        "Authors": "Aravind, N. R. and Sandeep, R. B. and Sivadasan, Naveen",
+        "Link": "https://doi.org/10.1007/978-3-319-13524-3_3",
+        "Year": "2014"
+    },
+    {
+        "Title": "Wi-Pi: Distributed Wi-Fi Performance Assessment using Raspberry Pi.In AINTEC, 31.DOI",
+        "Authors": "Bhardwaj, Deepak and Kataoka, Kotaro and Kumar, Vikash",
+        "Link": "",
+        "Year": "2014"
+    },
+    {
+        "Title": "Scaling a broadcast domain of Ethernet: Extensible transparent filter using SDN.In ICCCN, 1\u00e2\u0080\u00938.DOI",
+        "Authors": "Kataoka, Kotaro and Agarwal, Nitin and Kamath, Aditya V.",
+        "Link": "",
+        "Year": "2014"
+    },
+    {
+        "Title": "Non-interference and Local Correctness in Transactional Memory.In Distributed Computing and Networking - 15th International Conference, ICDCN 2014, Coimbatore, India, January 4-7, 2014. Proceedings, 197\u00e2\u0080\u0093211.DOI",
+        "Authors": "Kuznetsov, Petr and Peri, Sathya",
+        "Link": "https://doi.org/10.1007/978-3-642-45249-9_13",
+        "Year": "2014"
+    },
+    {
+        "Title": "A TimeStamp Based Multi-version STM Algorithm.In Distributed Computing and Networking - 15th International Conference, ICDCN 2014, Coimbatore, India, January 4-7, 2014. Proceedings, 212\u00e2\u0080\u0093226.DOI",
+        "Authors": "Kumar, Priyanka and Peri, Sathya and Vidyasankar, K.",
+        "Link": "https://doi.org/10.1007/978-3-642-45249-9_14",
+        "Year": "2014"
+    },
+    {
+        "Title": "2013 IEEE 13th International Conference on Data Mining, Dallas, TX, USA, December 7-10, 2013..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6724379",
+        "Year": "2013"
+    },
+    {
+        "Title": "2013 IEEE International Conference on Multimedia and Expo Workshops, San Jose, CA, USA, July 15-19, 2013..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6599032",
+        "Year": "2013"
+    },
+    {
+        "Title": "Proceedings of the 2013 IEEE International Conference on Multimedia and Expo, ICME 2013, San Jose, CA, USA, July 15-19, 2013..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6596168",
+        "Year": "2013"
+    },
+    {
+        "Title": "Artificial Intelligence Applications and Innovations - 9th IFIP WG 12.5 International Conference, AIAI 2013, Paphos, Cyprus, September 30 - October 2, 2013, Proceedings., 412.DOI",
+        "Authors": "",
+        "Link": "https://doi.org/10.1007/978-3-642-41142-7",
+        "Year": "2013"
+    },
+    {
+        "Title": "A Note on Even Cycles and Quasirandom Tournaments.Journal of Graph Theory, 73, 260\u00e2\u0080\u0093266.DOI",
+        "Authors": "Kalyanasundaram, Subrahmanyam and Shapira, Asaf",
+        "Link": "https://doi.org/10.1002/jgt.21671",
+        "Year": "2013"
+    },
+    {
+        "Title": "A Wowzer-type lower bound for the strong regularity lemma.Proceedings of the London Mathematical Society, 106, 621-649.DOI",
+        "Authors": "Kalyanasundaram, Subrahmanyam and Shapira, Asaf",
+        "Link": "http://dx.doi.org/10.1112/plms/pds045",
+        "Year": "2013"
+    },
+    {
+        "Title": "IEEE 28th International Conference on Data Engineering (ICDE 2012), Washington, DC, USA (Arlington, Virginia), 1-5 April, 2012..DOI",
+        "Authors": "",
+        "Link": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6226952",
+        "Year": "2012"
+    },
+    {
+        "Title": "Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2012, Scottsdale, AZ, USA, May 20-24, 2012..DOI",
+        "Authors": "",
+        "Link": "http://dl.acm.org/citation.cfm?id=2213836",
+        "Year": "2012"
+    },
+    {
+        "Title": "Design and Deployment of Post-Disaster Recovery Internet in 2011 Tohoku Earthquake.IEICE Transactions, 95-B, 2200\u00e2\u0080\u00932209.DOI",
+        "Authors": "Kataoka, Kotaro and Uehara, Keisuke and Oe, Masafumi and Murai, Jun",
+        "Link": "",
+        "Year": "2012"
+    },
+    {
+        "Title": "A rapidly deployable disaster communications system for developing countries.In ICC, 6339\u00e2\u0080\u00936343.DOI",
+        "Authors": "Jalihal, Devendra and Koilpillai, R. David and Khawas, P. and Sampoornam, S. and Nagarajan, Sree Hari and Takeda, Keiji and Kataoka, Kotaro",
+        "Link": "",
+        "Year": "2012"
+    }
+]

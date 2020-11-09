@@ -80,4 +80,29 @@ def scrape_students(department):
 	    json.dump(Students, outfile, indent=4)
 	
 
+def scrape_publications():
+	html_page = requests.get('https://cse.iith.ac.in/research/publications.html')
+	soup = BeautifulSoup(html_page.text, 'html.parser')
+
+	years = [item.text for item in soup.find_all('h2')]
+	elements = soup.find_all('ol')
+	
+	Publications = []
+
+	i = 0
+	for element in elements:
+		inner_elements = element.find_all(attrs = {'class': 'bib-entry'})
+		for inner_element in inner_elements:
+			Publications.append({
+				'Title': inner_element.text.replace("\n", "").replace("  ", "").strip().split(', ('+years[i]+').')[1],
+				'Authors': inner_element.text.replace("\n", "").replace("  ", "").strip().split(', ('+years[i]+').')[0],
+				'Link': inner_element.find('a')['href'],
+				"Year": years[i]
+				})
+		i = i+1
+
+	with open("Publications.json", "w") as outfile:  
+	    json.dump(Publications, outfile, indent=4)
+
+
 if __name__ == '__main__':
