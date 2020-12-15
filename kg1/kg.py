@@ -20,6 +20,7 @@ for i in dat:
 	relation.append("position")
 
 kg1 = pd.DataFrame({'source':names, 'target':position, 'edge':relation})
+print(kg1)
 
 G = nx.from_pandas_edgelist(kg1,"source","target",edge_attr = True, create_using= nx.MultiDiGraph())
 

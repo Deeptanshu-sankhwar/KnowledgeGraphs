@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Force Layout with labels on edges</title>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<style type="text/css">
+</style>
+</head>
+<body>
+
+<center>
+<h1 id="header">Select Faculty Graph</h1>
+<select id="mySelect" onchange="myFunction()">
+  <option value="Select Faculty Graph" selected>Select Faculty Graph</option>
+  <option value="1">Faculty-Position</option>
+  <option value="2">Faculty-Office</option>
+  <option value="3">Faculty-Domain</option>
+  <option value="4">Faculty-Block</option>
+</select>
+</center>
+
+<script type="text/javascript">
+    function myFunction()   {
+        var input = document.getElementById("mySelect").value;
+        if (input === '1')  {
+            window.open('/faculty/position', '_self')
+        }
+        else if (input === '2') {
+            window.open('/faculty/office', '_self')
+        }
+        else if (input === '3') {
+            window.open('/faculty/domain', '_self')
+        }
+        else if (input === '4') {
+            window.open('/faculty/block', '_self')
+        }
+    }
+</script>
+
+</body>
+</html>

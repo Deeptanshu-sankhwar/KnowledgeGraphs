@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<Title>Force Layout with labels on edges</Title>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<style type="text/css">
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <center>
+            <h1 id="header">Publications-Authors</h1>
+            <select id="mySelect" onchange="myFunction()">
+            <option value="1" selected>Publication-Authors</option>
+            <option value="2">Publications-Year</option>
+            </select>
+            </center>
+        </div>
+        <div class="col">
+            <center>
+              <h1 id="header">Query</h1>
+              Students who worked with <input type="text" id="myText" style="width: 100px;"></input> Prof &nbsp;&nbsp;<button onclick="funcDomain()">Query</button>
+            </center>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var w = screen.width;
+    var h = screen.height-100;  
+    var linkDistance=200;
+
+    var colors = d3.scale.category10();
+
+    function myFunction() {
+      var input = document.getElementById("mySelect").value;
+      if (input === '2') {
+            window.open('/publications/year', '_self')
+      } 
+    }
+
+    var data;
+    var Authors;
+    fetch('/Scraper/Publications').then(results => results.json()).then((results) =>  {
+        //   console.log('results', results)
+          data = {
+            nodes: [],
+            edges: []
+          }
+            Authors = []
+            for (let i=0; i < results.length; i++)  {
+            //   console.log(results[i].Authors.split(',').join('and').split('and'))
+              for (let j=0; j < results[i].Authors.split(',').join('and').split('and').length; j++) {
+                if (!Authors.includes(results[i].Authors.split(',').join('and').split('and')[j].trim())) {
+                    Authors.push(results[i].Authors.split(',').join('and').split('and')[j].trim())          
+                }
+              }
+            }
+            for (let i=0; i<results.length; i++)  {
+              data.nodes.push({Title: results[i].Title})
+              for (let j=0; j < results[i].Authors.split(',').join('and').split('and').length; j++) {
+                data.edges.push({source: i, target: results.length+Authors.indexOf(results[i].Authors.split(',').join('and').split('and')[j].trim())})
+              }
+            }
+
+            for (let i=0; i<Authors.length; i++)  {
+              data.nodes.push({Authors: Authors[i]})
+            }
+            console.log(data)
+          
+              var svg = d3.select("body").append("svg").attr({"width":w,"height":h});
+
+              var force = d3.layout.force()
+                  .nodes(data.nodes)
+                  .links(data.edges)
+                  .size([w,h])
+                  .linkDistance([linkDistance])
+                  .charge([-500])
+                  .theta(0.1)
+                  .gravity(0.05)
+                  .start();
+
+              var edges = svg.selectAll("line")
+                .data(data.edges)
+                .enter()
+                .append("line")
+                .attr("id",function(d,i) {return 'edge'+i})
+                .attr('marker-end','url(#arrowhead)')
+                .style("stroke","#ccc")
+                .style("pointer-events", "none");
+              
+              var nodes = svg.selectAll("circle")
+                .data(data.nodes)
+                .enter()
+                .append("circle")
+                .attr({"r":15})
+                .style("fill",function(d,i){return colors(i);})
+                .call(force.drag)
+
+              var nodelabels = svg.selectAll(".nodelabel") 
+                 .data(data.nodes)
+                 .enter()
+                 .append("text")
+                 .attr({"x":function(d){return d.x;},
+                        "y":function(d){return d.y;},
+                        "class":"nodelabel",
+                        "stroke":"black"})
+                 .text(function(d){
+                  if (Object.keys(d)[0] === 'Title') {
+                    return d.Title.substring(0,5)+'...';
+                  }
+                  return d.Authors;
+                });
+
+              var edgepaths = svg.selectAll(".edgepath")
+                  .data(data.edges)
+                  .enter()
+                  .append('path')
+                  .attr({'d': function(d) {return 'M '+d.source.x+' '+d.source.y+' L '+ d.target.x +' '+d.target.y},
+                         'class':'edgepath',
+                         'fill-opacity':0,
+                         'stroke-opacity':0,
+                         'fill':'blue',
+                         'stroke':'red',
+                         'id':function(d,i) {return 'edgepath'+i}})
+                  .style("pointer-events", "none");
+
+              var edgelabels = svg.selectAll(".edgelabel")
+                  .data(data.edges)
+                  .enter()
+                  .append('text')
+                  .style("pointer-events", "none")
+                  .attr({'class':'edgelabel',
+                         'id':function(d,i){return 'edgelabel'+i},
+                         'dx':80,
+                         'dy':0,
+                         'font-size':10,
+                         'fill':'#aaa'});
+
+              edgelabels.append('textPath')
+                  .attr('xlink:href',function(d,i) {return '#edgepath'+i})
+                  .style("pointer-events", "none")
+                  .text(function(d,i){return 'label '+i});
+
+
+              svg.append('defs').append('marker')
+                  .attr({'id':'arrowhead',
+                         'viewBox':'-0 -5 10 10',
+                         'refX':25,
+                         'refY':0,
+                         'markerUnits':'strokeWidth',
+                         'orient':'auto',
+                         'markerWidth':10,
+                         'markerHeight':10,
+                         'xoverflow':'visible'
+                         })
+                  .append('svg:path')
+                      .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+                      .attr('fill', '#ccc')
+                      .attr('stroke','#ccc');
+               
+
+              force.on("tick", function(){
+
+                  edges.attr({"x1": function(d){return d.source.x;},
+                              "y1": function(d){return d.source.y;},
+                              "x2": function(d){return d.target.x;},
+                              "y2": function(d){return d.target.y;}
+                  });
+
+                  nodes.attr({"cx":function(d){return d.x;},
+                              "cy":function(d){return d.y;}
+                  });
+
+                  nodelabels.attr("x", function(d) { return d.x; }) 
+                            .attr("y", function(d) { return d.y; });
+
+                  edgepaths.attr('d', function(d) { var path='M '+d.source.x+' '+d.source.y+' L '+ d.target.x +' '+d.target.y;
+                                                     //console.log(d)
+                                                     return path});       
+
+                  edgelabels.attr('transform',function(d,i){
+                      if (d.target.x<d.source.x){
+                          bbox = this.getBBox();
+                          rx = bbox.x+bbox.width/2;
+                          ry = bbox.y+bbox.height/2;
+                          return 'rotate(180 '+rx+' '+ry+')';
+                          }
+                      else {
+                          return 'rotate(0)';
+                          }
+                  });
+              });  
+      })  
+
+      function funcDomain() {
+        var input = document.getElementById("myText").value.toLowerCase();
+        var target = Authors.indexOf(input) + data.nodes.length - Authors.length; //target value
+        var results = [];
+        for (let i=0; i<data.edges.length-1; i++)   {
+          if (data.edges[i].target.Authors.toLowerCase() === input)  {
+            let j=i+1;
+            // console.log(data.edges[j])
+            while(data.edges[i].source.Title === data.edges[j].source.Title)    {
+                if (!results.includes(data.edges[j].target.Authors))    {
+                    results.push(data.edges[j].target.Authors)
+                }
+                j++;
+            }
+            i = j;
+          }
+        }
+        alert(results)
+      }
+</script>
+
+</body>
+</html>
